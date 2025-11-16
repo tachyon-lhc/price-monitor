@@ -1,0 +1,8 @@
+timestamp,fuente,tipo,nombre,precio_compra,precio_venta,moneda,fecha_actualizacion
+2025-11-16 20:17:12.721515,DolarAPI,cotizacion,Oficial,1375.0,1425.0,USD,2025-11-14T17:00:00.000Z
+2025-11-16 20:17:12.721534,DolarAPI,cotizacion,Blue,1410.0,1430.0,USD,2025-11-16T20:59:00.000Z
+2025-11-16 20:17:12.721543,DolarAPI,cotizacion,Bolsa,1450.5,1456.1,USD,2025-11-16T20:59:00.000Z
+2025-11-16 20:17:12.721550,DolarAPI,cotizacion,Contado con liquidación,1484.4,1485.5,USD,2025-11-16T20:59:00.000Z
+2025-11-16 20:17:12.721555,DolarAPI,cotizacion,Mayorista,1394.0,1403.0,USD,2025-11-14T16:05:00.000Z
+2025-11-16 20:17:12.721561,DolarAPI,cotizacion,Cripto,1514.0,1520.0,USD,2025-11-16T20:59:00.000Z
+2025-11-16 20:17:12.721566,DolarAPI,cotizacion,Tarjeta,1787.5,1852.5,USD,2025-11-14T17:00:00.000Z

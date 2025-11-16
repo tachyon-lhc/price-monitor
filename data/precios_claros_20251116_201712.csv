@@ -1,0 +1,31 @@
+timestamp,fuente,categoria,nombre,marca,precio_min,precio_max,precio,presentacion,ean,sucursales_disponibles,lat,lng
+2025-11-16 20:17:07.903645,PreciosClaros,leche,Acondicionador Coco y Leche Eco-Pack Algabo 930 Ml,ALGABO,2875.0,2875.0,2875.0,930.0 ml,7791274199486,1,-34.6037,-58.3816
+2025-11-16 20:17:07.903667,PreciosClaros,leche,Alfajor Blanco Mini Dulce de Leche Jorgito 6 Un 155 Gr,JORGITO,3289.99,3289.99,3289.99,155.0 gr,7790957000538,2,-34.6037,-58.3816
+2025-11-16 20:17:07.903678,PreciosClaros,leche,Alfajor con Dulce de Leche Vauquita 80 Gr,VAUQUITA,1380.0,1380.0,1380.0,80.0 gr,7798138290167,2,-34.6037,-58.3816
+2025-11-16 20:17:07.903685,PreciosClaros,leche,Alfajor de Arroz Dulce de Leche Chocoarroz 22 Gr,CHOCOARROZ,1139.0,1400.0,1139.0,22.0 gr,7790070418203,14,-34.6037,-58.3816
+2025-11-16 20:17:07.903692,PreciosClaros,leche,Alfajor de Dulce de Leche Happy Food 3 Un 50 Gr,HAPPY FOOD,3839.0,3955.0,3839.0,50.0 gr,7798308250069,6,-34.6037,-58.3816
+2025-11-16 20:17:07.903699,PreciosClaros,leche,Alfajor de Dulce de Leche Sol Serrano 40 Gr,SOL SERRANO,455.0,496.0,455.0,40.0 gr,7794903232417,2,-34.6037,-58.3816
+2025-11-16 20:17:07.903706,PreciosClaros,leche,Alfajor Dulce de Leche Chocoarroz 6 Un 22 Gr,CHOCOARROZ,7195.0,7195.0,7195.0,22.0 gr,7790070418227,3,-34.6037,-58.3816
+2025-11-16 20:17:07.903711,PreciosClaros,leche,Alfajor Dulce de Leche Milka Oreo 61 Gr,OREO,1975.0,1980.0,1975.0,61.0 gr,7622300835620,3,-34.6037,-58.3816
+2025-11-16 20:17:07.903718,PreciosClaros,leche,Alfajor Dulce de Leche sin TACC Yuka 6 Un,YUKA,5950.0,5950.0,5950.0,6.0 un,7794903232493,2,-34.6037,-58.3816
+2025-11-16 20:17:07.903723,PreciosClaros,leche,Alfajor Glaseado con Dulce de Leche Rscolar Vimar 28 Gr,VIMAR,275.0,275.0,275.0,28.0 gr,0000077958259,2,-34.6037,-58.3816
+2025-11-16 20:17:10.048500,PreciosClaros,arroz,Aderezo para Pastas Papas y Arroz Sazon 60 Gr,SAZON,1399.0,1399.0,1399.0,60.0 gr,7891132001699,2,-34.6037,-58.3816
+2025-11-16 20:17:10.048517,PreciosClaros,arroz,Aderezo para Verduras Legumbres y Arroz Sazon 60 Gr,SAZON,1399.0,1399.0,1399.0,60.0 gr,7891132001682,3,-34.6037,-58.3816
+2025-11-16 20:17:10.048524,PreciosClaros,arroz,Alfajor Arroz Bco Ddl Carrefour Classic 3 X 28grs,CARREFOUR CLASSIC,2910.0,2910.0,2910.0,1.0 uni,7791720033647,1,-34.6037,-58.3816
+2025-11-16 20:17:10.048531,PreciosClaros,arroz,Alfajor Arroz Bco Ddl Carrefour Classic X 28grs,CARREFOUR CLASSIC,970.0,970.0,970.0,1.0 uni,7791720033630,12,-34.6037,-58.3816
+2025-11-16 20:17:10.048537,PreciosClaros,arroz,Alfajor Arroz Limon Chocoarroz 22 Gr,CHOCOARROZ,1139.0,1339.0,1139.0,22.0 gr,7790070418241,8,-34.6037,-58.3816
+2025-11-16 20:17:10.048544,PreciosClaros,arroz,Alfajor Arroz Neg Ddl Carrefour Classic 3 X 28grs,CARREFOUR CLASSIC,2910.0,2910.0,2910.0,1.0 uni,7791720033623,2,-34.6037,-58.3816
+2025-11-16 20:17:10.048550,PreciosClaros,arroz,Alfajor Arroz Neg Lim Carrefour Classic 3 X 28grs,CARREFOUR CLASSIC,2910.0,2910.0,2910.0,1.0 uni,7791720033661,1,-34.6037,-58.3816
+2025-11-16 20:17:10.048556,PreciosClaros,arroz,Alfajor Arroz Neg Lim Carrefour Classic X 28grs,CARREFOUR CLASSIC,970.0,970.0,970.0,1.0 uni,7791720033654,13,-34.6037,-58.3816
+2025-11-16 20:17:10.048562,PreciosClaros,arroz,Alfajor Blanco Chocoarroz 22 Gr,CHOCOARROZ,1139.0,1139.0,1139.0,22.0 gr,7790070418289,2,-34.6037,-58.3816
+2025-11-16 20:17:10.048568,PreciosClaros,arroz,Alfajor Blanco Chocoarroz 6 Un 22 Gr,CHOCOARROZ,7195.0,7195.0,7195.0,22.0 gr,7790070418302,1,-34.6037,-58.3816
+2025-11-16 20:17:12.479470,PreciosClaros,aceite,Aceite Bronceador Cocoa Beach 250 Ml,COCOA BEACH,13530.0,13530.0,13530.0,250.0 ml,7791274190216,2,-34.6037,-58.3816
+2025-11-16 20:17:12.479486,PreciosClaros,aceite,Aceite Canola Limon sin Gluten Carrefour 500 Ml,CARREFOUR,8750.0,8750.0,8750.0,500.0 ml,7791720025536,2,-34.6037,-58.3816
+2025-11-16 20:17:12.479493,PreciosClaros,aceite,Aceite Canola Sabor Albahaca Sin Gluten Carrefour 500 Ml,CARREFOUR,8750.0,8750.0,8750.0,500.0 ml,7791720025529,1,-34.6037,-58.3816
+2025-11-16 20:17:12.479500,PreciosClaros,aceite,Aceite Canola y Oliva Sin Gluten Carrefour 500 Ml,CARREFOUR,8750.0,8750.0,8750.0,500.0 ml,7791720025499,2,-34.6037,-58.3816
+2025-11-16 20:17:12.479506,PreciosClaros,aceite,Aceite Corporal Carrefour My Baby Bot X 200 Cc,CARREFOUR MY BABY,6110.0,6110.0,6110.0,1.0 uni,7791720044544,2,-34.6037,-58.3816
+2025-11-16 20:17:12.479513,PreciosClaros,aceite,Aceite D/Oliva Extr.Virgen Gold.Blue Morixe Bot 500 Ml,MORIXE,18900.0,18900.0,18900.0,500.0 ml,7790199604556,2,-34.6037,-58.3816
+2025-11-16 20:17:12.479520,PreciosClaros,aceite,Aceite D/Oliva Virgen Extra Andino Natura Bot 500 Ml,NATURA,17299.0,17302.0,17299.0,500.0 ml,7790272008387,4,-34.6037,-58.3816
+2025-11-16 20:17:12.479526,PreciosClaros,aceite,Aceite D/Oliva Virgen Extra Fuerte Natura Pet 500 Ml,NATURA,14480.0,14915.0,14480.0,500.0 ml,7790272008417,8,-34.6037,-58.3816
+2025-11-16 20:17:12.479532,PreciosClaros,aceite,Aceite D/Oliva Virgen Extra Suave Natura Pet 500 Ml,NATURA,14475.0,15359.0,14475.0,500.0 ml,7790272008394,27,-34.6037,-58.3816
+2025-11-16 20:17:12.479538,PreciosClaros,aceite,Aceite De Coco Cosaco 360ml   ,sin marca,6900.0,6900.0,6900.0,1.0 unidad,7790890111919,10,-34.6037,-58.3816
