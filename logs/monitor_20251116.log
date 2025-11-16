@@ -1,0 +1,80 @@
+2025-11-16 20:20:17,771 - INFO - 🔧 MODO TEST: Ejecutando una sola vez
+2025-11-16 20:20:17,771 - INFO - ======================================================================
+2025-11-16 20:20:17,771 - INFO - 🚀 INICIANDO RECOLECCIÓN DE DATOS
+2025-11-16 20:20:17,771 - INFO - ======================================================================
+2025-11-16 20:20:17,803 - INFO - 
+📊 Obteniendo cotizaciones de dólar...
+2025-11-16 20:20:18,040 - INFO - ✓ Dólar: 7 cotizaciones guardadas
+2025-11-16 20:20:18,040 - INFO - 
+🛒 Obteniendo productos de supermercados...
+2025-11-16 20:20:36,499 - ERROR - 
+❌ ERROR durante la recolección: 'Database' object has no attribute 'guardar_productos'
+Traceback (most recent call last):
+  File "/home/tachyon/home/tachyon/proyectos-ML/price-monitor/scheduler.py", line 67, in job_recolectar_datos
+    db.guardar_productos(productos)
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Database' object has no attribute 'guardar_productos'
+2025-11-16 20:20:36,501 - INFO - ======================================================================
+
+2025-11-16 20:20:36,501 - INFO - 
+✓ Ejecución única completada. Para ejecutar automáticamente, usa: python scheduler.py
+2025-11-16 20:22:45,306 - INFO - 🔧 MODO TEST: Ejecutando una sola vez
+2025-11-16 20:22:45,306 - INFO - ======================================================================
+2025-11-16 20:22:45,306 - INFO - 🚀 INICIANDO RECOLECCIÓN DE DATOS
+2025-11-16 20:22:45,306 - INFO - ======================================================================
+2025-11-16 20:22:45,321 - INFO - 
+📊 Obteniendo cotizaciones de dólar...
+2025-11-16 20:22:45,566 - INFO - ✓ Dólar: 7 cotizaciones guardadas
+2025-11-16 20:22:45,566 - INFO - 
+🛒 Obteniendo productos de supermercados...
+2025-11-16 20:23:00,178 - INFO - 🔧 MODO TEST: Ejecutando una sola vez
+2025-11-16 20:23:00,178 - INFO - ======================================================================
+2025-11-16 20:23:00,178 - INFO - 🚀 INICIANDO RECOLECCIÓN DE DATOS
+2025-11-16 20:23:00,178 - INFO - ======================================================================
+2025-11-16 20:23:00,193 - INFO - 
+📊 Obteniendo cotizaciones de dólar...
+2025-11-16 20:23:00,371 - INFO - ✓ Dólar: 7 cotizaciones guardadas
+2025-11-16 20:23:00,371 - INFO - 
+🛒 Obteniendo productos de supermercados...
+2025-11-16 20:23:18,728 - ERROR - 
+❌ ERROR durante la recolección: 'Database' object has no attribute 'guardar_productos'
+Traceback (most recent call last):
+  File "/home/tachyon/home/tachyon/proyectos-ML/price-monitor/scheduler.py", line 67, in job_recolectar_datos
+    db.guardar_productos(productos)
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Database' object has no attribute 'guardar_productos'
+2025-11-16 20:23:18,729 - INFO - ======================================================================
+
+2025-11-16 20:23:18,730 - INFO - 
+✓ Ejecución única completada. Para ejecutar automáticamente, usa: python scheduler.py
+2025-11-16 20:25:41,124 - INFO - 🔧 MODO TEST: Ejecutando una sola vez
+2025-11-16 20:25:41,125 - INFO - ======================================================================
+2025-11-16 20:25:41,125 - INFO - 🚀 INICIANDO RECOLECCIÓN DE DATOS
+2025-11-16 20:25:41,125 - INFO - ======================================================================
+2025-11-16 20:25:41,180 - INFO - 
+📊 Obteniendo cotizaciones de dólar...
+2025-11-16 20:25:41,332 - INFO - ✓ Dólar: 7 cotizaciones guardadas
+2025-11-16 20:25:41,333 - INFO - 
+🛒 Obteniendo productos de supermercados...
+2025-11-16 20:26:00,090 - INFO - ✓ Productos: 120 items guardados
+2025-11-16 20:26:00,090 - INFO - 
+======================================================================
+2025-11-16 20:26:00,090 - INFO - 📈 RESUMEN DE RECOLECCIÓN
+2025-11-16 20:26:00,091 - INFO - ======================================================================
+2025-11-16 20:26:00,091 - INFO -   • Cotizaciones: 7
+2025-11-16 20:26:00,091 - INFO -   • Productos: 120
+2025-11-16 20:26:00,091 - INFO -   • Total: 127 registros
+2025-11-16 20:26:00,091 - INFO -   • Duración: 18.97 segundos
+2025-11-16 20:26:00,092 - INFO - ======================================================================
+2025-11-16 20:26:00,106 - INFO - 
+📊 ESTADÍSTICAS GENERALES DE LA BASE DE DATOS
+2025-11-16 20:26:00,106 - INFO -   • Total productos históricos: 120
+2025-11-16 20:26:00,107 - INFO -   • Total cotizaciones históricas: 7
+2025-11-16 20:26:00,107 - INFO -   • Primera fecha de datos: 2025-11-16 20:25
+2025-11-16 20:26:00,107 - INFO -   • Última actualización: 2025-11-16 20:26
+2025-11-16 20:26:00,107 - INFO - 
+✅ Recolección completada exitosamente
+2025-11-16 20:26:00,107 - INFO - ======================================================================
+
+2025-11-16 20:26:00,107 - INFO - 
+✓ Ejecución única completada. Para ejecutar automáticamente, usa: python scheduler.py

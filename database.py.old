@@ -1,0 +1,104 @@
+from sqlalchemy import create_engine, Column, Integer, String, Float, DateTime
+from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm import sessionmaker
+from datetime import datetime
+
+Base = declarative_base()
+
+
+class Cotizacion(Base):
+    """Modelo para guardar cotizaciones"""
+
+    __tablename__ = "cotizaciones"
+
+    id = Column(Integer, primary_key=True, autoincrement=True)
+    timestamp = Column(DateTime, default=datetime.now, index=True)
+    fuente = Column(String(50))
+    tipo_cambio = Column(String(100))
+    moneda = Column(String(10))
+    precio_compra = Column(Float)
+    precio_venta = Column(Float)
+    fecha_actualizacion = Column(String(50))
+
+    def __repr__(self):
+        return f"<Cotizacion {self.tipo_cambio}: ${self.precio_venta}>"
+
+
+class Database:
+    """Maneja la conexión y operaciones de base de datos"""
+
+    def __init__(self, db_path="cotizaciones.db"):
+        self.engine = create_engine(f"sqlite:///{db_path}", echo=False)
+        Base.metadata.create_all(self.engine)
+        Session = sessionmaker(bind=self.engine)
+        self.session = Session()
+        print(f"✓ Base de datos inicializada: {db_path}")
+
+    def guardar_cotizaciones(self, lista_cotizaciones):
+        """Guarda una lista de cotizaciones"""
+        try:
+            for cot_dict in lista_cotizaciones:
+                cotizacion = Cotizacion(**cot_dict)
+                self.session.add(cotizacion)
+
+            self.session.commit()
+            print(f"✓ Guardadas {len(lista_cotizaciones)} cotizaciones en DB")
+            return True
+
+        except Exception as e:
+            self.session.rollback()
+            print(f"✗ Error guardando en DB: {e}")
+            return False
+
+    def obtener_ultimas_cotizaciones(self, limit=10):
+        """Obtiene las últimas cotizaciones"""
+        return (
+            self.session.query(Cotizacion)
+            .order_by(Cotizacion.timestamp.desc())
+            .limit(limit)
+            .all()
+        )
+
+    def obtener_por_moneda(self, moneda, dias=7):
+        """Obtiene histórico de una moneda específica"""
+        from datetime import timedelta
+
+        fecha_desde = datetime.now() - timedelta(days=dias)
+
+        return (
+            self.session.query(Cotizacion)
+            .filter(Cotizacion.moneda == moneda)
+            .filter(Cotizacion.timestamp >= fecha_desde)
+            .order_by(Cotizacion.timestamp.asc())
+            .all()
+        )
+
+
+# Test
+if __name__ == "__main__":
+    print("=== TEST DATABASE ===\n")
+
+    db = Database("test.db")
+
+    # Insertar datos de prueba
+    datos_prueba = [
+        {
+            "timestamp": datetime.now(),
+            "fuente": "Test",
+            "tipo_cambio": "Dólar Blue",
+            "moneda": "USD",
+            "precio_compra": 1000.0,
+            "precio_venta": 1020.0,
+            "fecha_actualizacion": datetime.now().isoformat(),
+        }
+    ]
+
+    db.guardar_cotizaciones(datos_prueba)
+
+    # Leer datos
+    ultimas = db.obtener_ultimas_cotizaciones(5)
+    print("\n--- Últimas cotizaciones ---")
+    for cot in ultimas:
+        print(
+            f"{cot.timestamp.strftime('%Y-%m-%d %H:%M')} | {cot.tipo_cambio}: ${cot.precio_venta}"
+        )
