@@ -219,7 +219,3 @@ This project helped me develop:
 ## Contact
 
 - Email: <valentingonzalezdaumes@gmail.com>
-
-## License
-
-MIT License
