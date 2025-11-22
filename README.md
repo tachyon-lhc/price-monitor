@@ -218,8 +218,6 @@ This project helped me develop:
 
 ## Contact
 
-[Your Name]
-
 - Email: <valentingonzalezdaumes@gmail.com>
 
 ## License
