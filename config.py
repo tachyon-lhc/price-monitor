@@ -23,7 +23,6 @@ CATEGORIAS_PRODUCTOS = [
     "arroz largo fino",
     "fideos guiseros",
     "aceite girasol 900",
-    "fideos",
     "aceite girasol",
     "azucar",
     "harina 0000",
@@ -35,17 +34,11 @@ CATEGORIAS_PRODUCTOS = [
     "cafe molido",
     "te saquitos",
     "te hebras",
-    # Panificados
-    "pan lactal",
-    "pan rallado",
     # Conservas
     "tomate triturado",
     "atun",
     # Proteínas
-    "huevos",
-    "pollo entero",
-    "pollo pechuga",
-    "pollo pata entera",
+    "hamburguesas carne",
     # Limpieza
     "detergente",
     "lavandina",
@@ -54,7 +47,7 @@ CATEGORIAS_PRODUCTOS = [
 ]
 
 # Límites de scraping
-LIMITE_PRODUCTOS_POR_CATEGORIA = 20
+LIMITE_PRODUCTOS_POR_CATEGORIA = 30
 
 # Configuración de la API
 API_TIMEOUT = 15  # segundos
@@ -64,29 +57,39 @@ API_TIMEOUT = 15  # segundos
 # Canasta básica para análisis
 CANASTA_BASICA = [
     "leche entera",
-    "arroz blanco",
+    "arroz largo fino",
     "aceite girasol",
     "azucar",
     "yerba mate",
-    "pan lactal",
-    "fideos secos",
+    "fideos guiseros",
     "harina 0000",
+    "hamburguesas carne",
 ]
+
+CANTIDADES_CANASTA = {
+    "leche entera": 3,
+    "arroz largo fino": 4,
+    "aceite girasol": 1,
+    "azucar": 2,
+    "yerba mate": 1,
+    "fideos guiseros": 3,
+    "harina 0000": 2,
+    "hamburguesas carne": 1,
+}
 
 # Categorías por tipo (para agrupación en análisis)
 CATEGORIAS_AGRUPADAS = {
     "Lácteos": ["leche entera", "leche descremada", "yogur", "queso cremoso"],
     "Almacén": [
-        "arroz blanco",
-        "fideos secos",
+        "arroz largo fino",
+        "fideos guiseros",
         "aceite girasol",
         "azucar",
         "harina 0000",
         "sal fina",
     ],
     "Infusiones": ["yerba mate", "cafe molido", "te negro"],
-    "Panificados": ["pan lactal", "pan rallado"],
     "Conservas": ["tomate triturado", "atun lata"],
-    "Proteínas": ["huevos", "pollo"],
+    "Proteínas": ["huevos", "pollo entero"],
     "Limpieza": ["detergente", "lavandina"],
 }
