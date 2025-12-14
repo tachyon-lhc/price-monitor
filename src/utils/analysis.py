@@ -42,7 +42,6 @@ def filtrar_productos_invalidos(productos):
         "leche descremada": ["acondicionador", "shampoo", "dulce de leche", "crema"],
         "aceite girasol": ["aceite esencial", "aceite motor"],
         "yogur": ["yogurisimo"],  # Si querés excluir bebidas lácteas
-        # Agregar más según necesites
     }
 
     productos_validos = []
