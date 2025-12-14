@@ -1,5 +1,6 @@
 import requests
 from datetime import datetime
+from config import CANTIDADES_CANASTA
 import pandas as pd
 from pathlib import Path
 
@@ -147,4 +148,3 @@ if __name__ == "__main__":
             print(f"  Precio: ${prod['precio']:.2f}")
 
         scraper.guardar_csv_backup(productos)
-
