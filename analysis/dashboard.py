@@ -263,9 +263,6 @@ with tab3:
 
         costo_total += subtotal
 
-    else:
-        st.warning(f"No hay datos para: {categoria}")
-
     # Mostrar costo total
     col1, col2 = st.columns([2, 1])
     with col1:
@@ -302,16 +299,6 @@ with tab3:
         fig.update_traces(texttemplate="$%{text:.2f}", textposition="outside")
         fig.update_xaxes(tickangle=45)
         st.plotly_chart(fig, use_container_width=True)
-
-        # Mostrar productos faltantes
-        categorias_faltantes = set(config.CANASTA_BASICA) - set(df_canasta["Categoría"])
-        if categorias_faltantes:
-            st.warning(f"Categorías sin datos: {', '.join(categorias_faltantes)}")
-            st.info(
-                "Estas categorías se agregarán en las próximas ejecuciones del scheduler"
-            )
-    else:
-        st.error("No hay suficientes datos para calcular la canasta básica")
 
 # TAB 4: EVOLUCIÓN TEMPORAL
 with tab4:
