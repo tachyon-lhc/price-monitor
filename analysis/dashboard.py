@@ -383,5 +383,9 @@ with tab4:
 
 # Footer
 st.markdown("---")
-st.markdown("**Supermarket Price Tracker** - Dashboard de análisis de precios")
-st.markdown("Datos actualizados automáticamente mediante scheduler diario")
+st.markdown(
+    "**Supermarket Price Tracker** - Dashboard de análisis de precios en supermercado de Mar del Plata."
+)
+st.markdown(
+    "Datos fijos, NO se actualizan automaticamente debido al limitaciones del deploy gratuito."
+)
