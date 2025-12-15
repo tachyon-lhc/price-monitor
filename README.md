@@ -4,14 +4,14 @@ Dashboard interactivo para el análisis y monitoreo de precios y canasta básica
 
 ---
 
-## 🚀 Demo en vivo
+## Demo en vivo
 
 🔗 **App online:** [https://price-monitor-2.onrender.com](https://price-monitor.onrender.com)
 _(si está en modo free, puede tardar unos segundos en iniciar)_
 
 ---
 
-## 🖼️ Capturas del Dashboard
+## Capturas del Dashboard
 
 ### Vista general
 
@@ -27,18 +27,19 @@ _(si está en modo free, puede tardar unos segundos en iniciar)_
 
 ---
 
-## ✨ Características principales
+## Características principales
 
-- 📈 Visualización interactiva de precios
-- 🗓️ Filtro por fechas disponibles
-- 📊 Análisis de canasta básica
-- 🧮 Procesamiento de datos con **Pandas**
-- 🌐 Interfaz web simple y responsive con **Streamlit**
-- ☁️ Deploy automático en **Render**
+- Web Scraping con API de Precios Claros
+- Visualización interactiva de precios
+- Filtro por fechas disponibles
+- Análisis de canasta básica
+- Procesamiento de datos con **Pandas**
+- Interfaz web simple y responsive con **Streamlit**
+- Deploy automático en **Render**
 
 ---
 
-## 🧱 Stack tecnológico
+## Stack tecnológico
 
 - **Python 3.11**
 - **Streamlit 1.29**
@@ -48,7 +49,7 @@ _(si está en modo free, puede tardar unos segundos en iniciar)_
 
 ---
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 ```text
 price-monitor/
@@ -64,7 +65,7 @@ price-monitor/
 
 ---
 
-## 🛠️ Instalación local
+## Instalación local
 
 Cloná el repositorio:
 
@@ -89,7 +90,7 @@ streamlit run analysis/dashboard.py
 
 ---
 
-## ☁️ Deploy en Render
+## Deploy en Render
 
 El proyecto está configurado para desplegarse automáticamente en Render.
 
@@ -118,7 +119,7 @@ python-3.11.9
 
 ---
 
-## 📌 Roadmap
+## Roadmap
 
 - [ ] Scheduler para recolectar datos automaticamente
 - [ ] Agregar más métricas de canasta básica
@@ -128,6 +129,6 @@ python-3.11.9
 
 ---
 
-## 👤 Autor
+## Autor
 
 ## **Valentín González Daumes**
