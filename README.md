@@ -6,7 +6,7 @@ Dashboard interactivo para el análisis y monitoreo de precios y canasta básica
 
 ## Demo en vivo
 
-🔗 **App online:** [https://price-monitor-2.onrender.com](https://price-monitor.onrender.com)
+🔗 **App online:** [https://price-monitor-2-l280.onrender.com](https://price-monitor.onrender.com)
 _(si está en modo free, puede tardar unos segundos en iniciar)_
 
 ---
