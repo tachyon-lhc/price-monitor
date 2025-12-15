@@ -1,0 +1,52 @@
+timestamp,fuente,categoria,nombre,marca,precio_min,precio_max,precio,presentacion,ean,sucursales_disponibles,lat,lng
+2025-11-18 22:32:09.640157,PreciosClaros,leche entera,Leche Entera 3% Uat La Serenisima 1 Lt,LA SERENÍSIMA,2479.0,2482.0,2479.0,1.0 lt,7790742335500,14,-34.6037,-58.3816
+2025-11-18 22:32:09.640178,PreciosClaros,leche entera,Casanto Leche Entera 3 Sachet Casanto 1 Lt,CASANTO,1525.0,1527.0,1525.0,1.0 lt,7790742192301,13,-34.6037,-58.3816
+2025-11-18 22:32:09.640188,PreciosClaros,leche entera,Leche en Polvo Entera Bolsa La Serenisima 200 Gr,LA SERENÍSIMA,3235.0,3335.0,3235.0,200.0 gr,7790742436108,9,-34.6037,-58.3816
+2025-11-18 22:32:09.640195,PreciosClaros,leche entera,Leche En Polvo Entera Carrefour Classic Pouchx125g,CARREFOUR CLASSIC,1780.0,1780.0,1780.0,1.0 uni,7791720031711,16,-34.6037,-58.3816
+2025-11-18 22:32:09.640202,PreciosClaros,leche entera,Leche En Polvo Entera Carrefour Classic Pouchx250g,CARREFOUR CLASSIC,3390.0,3390.0,3390.0,1.0 uni,7791720031728,16,-34.6037,-58.3816
+2025-11-18 22:32:09.640208,PreciosClaros,leche entera,Leche En Polvo Entera Carrefour Classic Pouchx400g,CARREFOUR CLASSIC,4970.0,4970.0,4970.0,1.0 uni,7791720031773,2,-34.6037,-58.3816
+2025-11-18 22:32:09.640222,PreciosClaros,leche entera,Leche en Polvo Entera con Vitaminas Purisima 200 Gr,PURÍSIMA,2670.0,2670.0,2670.0,200.0 gr,7798095171721,10,-34.6037,-58.3816
+2025-11-18 22:32:09.640228,PreciosClaros,leche entera,Leche en Polvo Entera Dia 400 Gr,DÍA,4780.0,4780.0,4780.0,400.0 gr,8480017034595,10,-34.6037,-58.3816
+2025-11-18 22:32:09.640234,PreciosClaros,leche entera,Leche en Polvo Entera Dia 800 Gr,DÍA,8750.0,8750.0,8750.0,800.0 gr,8480017297013,10,-34.6037,-58.3816
+2025-11-18 22:32:09.640240,PreciosClaros,leche entera,Leche en Polvo Entera Fortificada Santa Clara 400 Gr,SANTA CLARA,4649.0,4649.0,4649.0,400.0 gr,7798312320390,2,-34.6037,-58.3816
+2025-11-18 22:32:09.640246,PreciosClaros,leche entera,Leche en Polvo Entera Instantanea Vitamina A y D Paquete Purisima 400 Gr,PURÍSIMA,4349.0,4349.0,4349.0,400.0 gr,7798095170823,2,-34.6037,-58.3816
+2025-11-18 22:32:09.640252,PreciosClaros,leche entera,Leche en Polvo Entera La Serenisima 400 Gr,LA SERENÍSIMA,6178.0,6179.0,6178.0,400.0 gr,7790742436306,4,-34.6037,-58.3816
+2025-11-18 22:32:09.640259,PreciosClaros,leche entera,Leche en Polvo Entera Purisima Plus 800 Gr,PURÍSIMA,10349.0,10349.0,10349.0,800.0 gr,7798095171363,2,-34.6037,-58.3816
+2025-11-18 22:32:09.640264,PreciosClaros,leche entera,Leche en Polvo Entera Vitamina A y D Purisima 400 Gr,PURÍSIMA,7050.0,7050.0,7050.0,400.0 gr,7798095171813,2,-34.6037,-58.3816
+2025-11-18 22:32:09.640271,PreciosClaros,leche entera,Leche en Polvo Entera Zero Lactosa La Serenisima 400 Gr,LA SERENÍSIMA,7909.0,8149.0,7909.0,400.0 gr,7790742436504,14,-34.6037,-58.3816
+2025-11-18 22:32:12.161900,PreciosClaros,leche descremada,Leche Descremada 0 Uat Tetra Las Tres Ninas 1 Lt,LAS TRES NIÑAS,2265.0,2265.0,2265.0,1.0 lt,7798338290301,4,-34.6037,-58.3816
+2025-11-18 22:32:12.161918,PreciosClaros,leche descremada,Leche Descremada 2% Sachet Casanto 1 Lt,CASANTO,1525.0,1527.0,1525.0,1.0 lt,7790742192202,14,-34.6037,-58.3816
+2025-11-18 22:32:12.161924,PreciosClaros,leche descremada,Leche Descremada Barista Larga Vida Botella La Serenisima 1 Lt,LA SERENÍSIMA,2539.0,2615.0,2539.0,1.0 lt,7790742358400,9,-34.6037,-58.3816
+2025-11-18 22:32:12.161931,PreciosClaros,leche descremada,Leche Descremada en Sachet Coto 1 Lt,COTO,1249.0,1249.0,1249.0,1.0 lt,7798039600065,2,-34.6037,-58.3816
+2025-11-18 22:32:12.161937,PreciosClaros,leche descremada,Leche Descremada Larga Vida Vitamina A y D Ciudad Del Lago 1 Lt,CIUDAD DEL LAGO,1649.0,1649.0,1649.0,1.0 lt,12-1-2800000798512,2,-34.6037,-58.3816
+2025-11-18 22:32:12.161943,PreciosClaros,leche descremada,Leche Descremada Protein Larga Vida Uat La Serenisima 1 Lt,LA SERENÍSIMA,2539.0,2615.0,2539.0,1.0 lt,7790742358608,16,-34.6037,-58.3816
+2025-11-18 22:32:12.161950,PreciosClaros,leche descremada,Leche Descremada Sachet 1Casanto 1 Lt,CASANTO,1525.0,1527.0,1525.0,1.0 lt,7790742192103,14,-34.6037,-58.3816
+2025-11-18 22:32:12.161956,PreciosClaros,leche descremada,Leche Descremada Uat 0 La Serenisima 1 Lt,LA SERENÍSIMA,2482.0,2559.0,2482.0,1.0 lt,7790742335302,6,-34.6037,-58.3816
+2025-11-18 22:32:12.161962,PreciosClaros,leche descremada,Leche Descremada UAT Fortificada con Vitamina A y D Coto 1 Lt,COTO,1749.0,1749.0,1749.0,1.0 lt,7798039600041,2,-34.6037,-58.3816
+2025-11-18 22:32:12.161968,PreciosClaros,leche descremada,Leche Descremada Uat Fortificada Hierro Botella 1 La Serenisima 1 Lt,LA SERENÍSIMA,2539.0,2615.0,2539.0,1.0 lt,7790742335807,18,-34.6037,-58.3816
+2025-11-18 22:32:12.161974,PreciosClaros,leche descremada,Leche Descremada Uat Larga Vida Dia 1 Lt,DÍA,1690.0,1690.0,1690.0,1.0 lt,8480017005045,10,-34.6037,-58.3816
+2025-11-18 22:32:12.161988,PreciosClaros,leche descremada,Leche Descremada Uat Vitamina Extra Calcio Botella La Serenisima 1 Lt,LA SERENÍSIMA,2539.0,2539.0,2539.0,1.0 lt,7790742335906,2,-34.6037,-58.3816
+2025-11-18 22:32:12.161994,PreciosClaros,leche descremada,Bebida a Base de Leche Descremada Proteina Chocolate La Serenisima Ttb 1 Lt,LA SERENÍSIMA,3969.0,3975.0,3969.0,1.0 lt,7790742172105,3,-34.6037,-58.3816
+2025-11-18 22:32:12.162000,PreciosClaros,leche descremada,Leche Condensada Descremada Nestle 395 Gr,NESTLÉ,4768.0,4915.0,4768.0,395.0 gr,8445290883858,26,-34.6037,-58.3816
+2025-11-18 22:32:12.162006,PreciosClaros,leche descremada,Leche Condensada Descremada sin TACC Nestle 395 Gr,NESTLÉ,4768.0,4909.0,4768.0,395.0 gr,8445290900654,18,-34.6037,-58.3816
+2025-11-18 22:32:14.351131,PreciosClaros,yogur,Barra Cereal Frut Y Yogur Carrefour Classic X21grs,CARREFOUR CLASSIC,710.0,710.0,710.0,1.0 uni,0000077989970,15,-34.6037,-58.3816
+2025-11-18 22:32:14.351145,PreciosClaros,yogur,Barra de Arroz Yogur Lulemuu 12 Gr,LULEMUU,520.0,520.0,520.0,12.0 gr,0000077919328,2,-34.6037,-58.3816
+2025-11-18 22:32:14.351152,PreciosClaros,yogur,Barra De Cereal Frutilla Con Yogur Frutty X 24 Grs,FRUTTY,900.0,900.0,900.0,1.0 uni,7792280006300,1,-34.6037,-58.3816
+2025-11-18 22:32:14.351158,PreciosClaros,yogur,Barra de Cereales con Yogur Frutos del Bosque Flow 27 Gr,FLOW,754.0,754.0,754.0,27.0 gr,7790380016199,2,-34.6037,-58.3816
+2025-11-18 22:32:14.351164,PreciosClaros,yogur,Barra de Cereales con Yogur Frutos del Bosque Flow 6 Un 162 Gr,FLOW,3900.0,3900.0,3900.0,162.0 gr,7790380016205,1,-34.6037,-58.3816
+2025-11-18 22:32:14.351171,PreciosClaros,yogur,Barras de Cereales con Yogur Sabor Frutilla Carrefour 3 Un,CARREFOUR,2050.0,2050.0,2050.0,3.0 un,7798159717742,16,-34.6037,-58.3816
+2025-11-18 22:32:14.351186,PreciosClaros,yogur,Barras de Cereales con Yogur Sabor Frutilla Carrefour 6 Un,CARREFOUR,4100.0,4100.0,4100.0,6.0 un,7798141714162,16,-34.6037,-58.3816
+2025-11-18 22:32:14.351192,PreciosClaros,yogur,Caramelos Mast Yogur Carrefour Classic X 150 Grs,CARREFOUR CLASSIC,2620.0,2620.0,2620.0,1.0 uni,7791720037720,2,-34.6037,-58.3816
+2025-11-18 22:32:14.351198,PreciosClaros,yogur,Caramelos Mast Yogur Carrefour Classic X 600 Grs,CARREFOUR CLASSIC,7910.0,7910.0,7910.0,1.0 uni,7791720037713,2,-34.6037,-58.3816
+2025-11-18 22:32:14.351204,PreciosClaros,yogur,Oblea deArroz Chorqui Rellena de Yogur y Frutilla Lulemuu 20 Gr,LULEMUU,750.0,750.0,750.0,20.0 gr,0000077975355,2,-34.6037,-58.3816
+2025-11-18 22:32:14.351210,PreciosClaros,yogur,Barr Frut Bosq Yogur,DIA,2070.0,2070.0,2070.0,3.0 ud,8480017291738,10,-34.6037,-58.3816
+2025-11-18 22:32:14.351216,PreciosClaros,yogur,Barra de Cereal con Yogurt Frutilla Cereal Mix Light 26 Gr,CEREAL MIX,1009.0,1040.0,1009.0,26.0 gr,0000077965370,15,-34.6037,-58.3816
+2025-11-18 22:32:14.351221,PreciosClaros,yogur,Dnn Yogurisimo Bebible Frutilla Fort 190gr,YOGURISIMO,2819.0,2905.0,2819.0,0.18 kg,7791337009387,28,-34.6037,-58.3816
+2025-11-18 22:32:14.351227,PreciosClaros,yogur,Dnn Yogurisimo Bebible Vainilla Fort 190gr,YOGURISIMO,2819.0,2905.0,2819.0,0.18 kg,7791337009356,18,-34.6037,-58.3816
+2025-11-18 22:32:14.351233,PreciosClaros,yogur,Barra Frut C/Yogur,DIA,710.0,710.0,710.0,25.0 gr,8480017298485,10,-34.6037,-58.3816
+2025-11-18 22:32:18.143088,PreciosClaros,arroz blanco,Arroz Blanco Organico By Na! 600 Gr,BY NA!,6289.0,6289.0,6289.0,600.0 gr,7798165591169,2,-34.6037,-58.3816
+2025-11-18 22:32:18.143102,PreciosClaros,arroz blanco,Arroz Blanco Organico Carrefour X 500 Grs,CARREFOUR ORGANICO,2890.0,2890.0,2890.0,1.0 uni,7791720044995,1,-34.6037,-58.3816
+2025-11-18 22:32:18.143139,PreciosClaros,arroz blanco,Condimento para Arroz Blanco Tempero Sazon Ajinomoto 60 Gr,SAZON,1399.0,1399.0,1399.0,60.0 gr,7891132001705,3,-34.6037,-58.3816
+2025-11-18 22:32:18.143145,PreciosClaros,arroz blanco,Harina de Arroz Blanco Abucel 500 Gr,ABUCEL,1919.0,1919.0,1919.0,500.0 gr,7798191490108,2,-34.6037,-58.3816
+2025-11-18 22:32:18.143151,PreciosClaros,arroz blanco,Barra de Arroz Bañada Chocolate Blanco Lulemuu 12 Gr,LULEMUU,520.0,520.0,520.0,12.0 gr,0000077919311,1,-34.6037,-58.3816
+2025-11-18 22:32:18.143158,PreciosClaros,arroz blanco,Barra de Arroz con Chocolate Blanco Choco Black 20 Gr,GALLO,999.99,999.99,999.99,20.0 gr,7790070431653,2,-34.6037,-58.3816

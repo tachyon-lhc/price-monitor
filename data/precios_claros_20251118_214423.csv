@@ -1,0 +1,11 @@
+timestamp,fuente,categoria,nombre,marca,precio_min,precio_max,precio,presentacion,ean,sucursales_disponibles,lat,lng
+2025-11-18 21:44:21.053774,PreciosClaros,leche,Acondicionador Coco y Leche Eco-Pack Algabo 930 Ml,ALGABO,2875.0,2875.0,2875.0,930.0 ml,7791274199486,1,-34.6037,-58.3816
+2025-11-18 21:44:21.053794,PreciosClaros,leche,Alfajor Blanco Mini Dulce de Leche Jorgito 6 Un 155 Gr,JORGITO,3289.99,3289.99,3289.99,155.0 gr,7790957000538,2,-34.6037,-58.3816
+2025-11-18 21:44:21.053804,PreciosClaros,leche,Alfajor con Dulce de Leche Vauquita 80 Gr,VAUQUITA,1380.0,1380.0,1380.0,80.0 gr,7798138290167,2,-34.6037,-58.3816
+2025-11-18 21:44:21.053812,PreciosClaros,leche,Alfajor de Arroz Dulce de Leche Chocoarroz 22 Gr,CHOCOARROZ,1139.0,1400.0,1139.0,22.0 gr,7790070418203,14,-34.6037,-58.3816
+2025-11-18 21:44:21.053819,PreciosClaros,leche,Alfajor de Dulce de Leche Happy Food 3 Un 50 Gr,HAPPY FOOD,3839.0,3955.0,3839.0,50.0 gr,7798308250069,7,-34.6037,-58.3816
+2025-11-18 21:44:23.261812,PreciosClaros,arroz,Aderezo para Aves Pescados y Arroz Sazon 60 Gr,SAZON,1399.0,1399.0,1399.0,60.0 gr,7891132001675,1,-34.6037,-58.3816
+2025-11-18 21:44:23.261827,PreciosClaros,arroz,Aderezo para Carnes Legumbres y Arroz Sazon 60 Gr,SAZON,1399.0,1399.0,1399.0,60.0 gr,7891132001668,1,-34.6037,-58.3816
+2025-11-18 21:44:23.261834,PreciosClaros,arroz,Aderezo para Pastas Papas y Arroz Sazon 60 Gr,SAZON,1399.0,1399.0,1399.0,60.0 gr,7891132001699,2,-34.6037,-58.3816
+2025-11-18 21:44:23.261841,PreciosClaros,arroz,Aderezo para Verduras Legumbres y Arroz Sazon 60 Gr,SAZON,1399.0,1399.0,1399.0,60.0 gr,7891132001682,3,-34.6037,-58.3816
+2025-11-18 21:44:23.261847,PreciosClaros,arroz,Alfajor Arroz Bco Ddl Carrefour Classic 3 X 28grs,CARREFOUR CLASSIC,2910.0,2910.0,2910.0,1.0 uni,7791720033647,1,-34.6037,-58.3816

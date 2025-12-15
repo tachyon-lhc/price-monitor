@@ -1,0 +1,76 @@
+timestamp,fuente,categoria,nombre,marca,precio_min,precio_max,precio,presentacion,ean,sucursales_disponibles,lat,lng
+2025-11-18 22:22:04.693480,PreciosClaros,leche,Acondicionador Coco y Leche Eco-Pack Algabo 930 Ml,ALGABO,2875.0,2875.0,2875.0,930.0 ml,7791274199486,1,-34.6037,-58.3816
+2025-11-18 22:22:04.693500,PreciosClaros,leche,Alfajor Blanco Mini Dulce de Leche Jorgito 6 Un 155 Gr,JORGITO,3289.99,3289.99,3289.99,155.0 gr,7790957000538,2,-34.6037,-58.3816
+2025-11-18 22:22:04.693511,PreciosClaros,leche,Alfajor con Dulce de Leche Vauquita 80 Gr,VAUQUITA,1380.0,1380.0,1380.0,80.0 gr,7798138290167,2,-34.6037,-58.3816
+2025-11-18 22:22:04.693518,PreciosClaros,leche,Alfajor de Arroz Dulce de Leche Chocoarroz 22 Gr,CHOCOARROZ,1139.0,1400.0,1139.0,22.0 gr,7790070418203,14,-34.6037,-58.3816
+2025-11-18 22:22:04.693525,PreciosClaros,leche,Alfajor de Dulce de Leche Happy Food 3 Un 50 Gr,HAPPY FOOD,3839.0,3955.0,3839.0,50.0 gr,7798308250069,7,-34.6037,-58.3816
+2025-11-18 22:22:04.693531,PreciosClaros,leche,Alfajor de Dulce de Leche Sol Serrano 40 Gr,SOL SERRANO,455.0,496.0,455.0,40.0 gr,7794903232417,4,-34.6037,-58.3816
+2025-11-18 22:22:04.693545,PreciosClaros,leche,Alfajor Dulce de Leche Chocoarroz 6 Un 22 Gr,CHOCOARROZ,7195.0,7195.0,7195.0,22.0 gr,7790070418227,3,-34.6037,-58.3816
+2025-11-18 22:22:04.693551,PreciosClaros,leche,Alfajor Dulce de Leche Milka Oreo 61 Gr,OREO,1975.0,1980.0,1975.0,61.0 gr,7622300835620,3,-34.6037,-58.3816
+2025-11-18 22:22:04.693557,PreciosClaros,leche,Alfajor Dulce de Leche sin TACC Yuka 6 Un,YUKA,5950.0,5950.0,5950.0,6.0 un,7794903232493,2,-34.6037,-58.3816
+2025-11-18 22:22:04.693563,PreciosClaros,leche,Alfajor Glaseado con Dulce de Leche Rscolar Vimar 28 Gr,VIMAR,275.0,275.0,275.0,28.0 gr,0000077958259,2,-34.6037,-58.3816
+2025-11-18 22:22:04.693569,PreciosClaros,leche,Alfajor Junior Blanco Extra Dulce de Leche Vauquita 55 Gr,VAUQUITA,929.99,929.99,929.99,55.0 gr,7798138290723,2,-34.6037,-58.3816
+2025-11-18 22:22:04.693575,PreciosClaros,leche,Alfajor Mini de Chocolate Relleno de Dulce de Leche Jorgito 160 Gr,JORGITO,3289.99,3289.99,3289.99,160.0 gr,7790957000033,1,-34.6037,-58.3816
+2025-11-18 22:22:04.693589,PreciosClaros,leche,Alfajor Mousse Leche Milka 42 Gr,MILKA,1409.0,1409.0,1409.0,42.0 gr,7622300759506,1,-34.6037,-58.3816
+2025-11-18 22:22:04.693595,PreciosClaros,leche,Alfajor sin TACC Dulce de Leche Simple Smams 3 Un 150 Gr,SMAMS,4359.0,4359.0,4359.0,150.0 gr,7798181511370,1,-34.6037,-58.3816
+2025-11-18 22:22:04.693601,PreciosClaros,leche,Alfajor Triple Dulce de Leche Terrabusi 70 Gr,TERRABUSI,1880.0,1980.0,1880.0,70.0 gr,0000077903792,18,-34.6037,-58.3816
+2025-11-18 22:22:07.035173,PreciosClaros,arroz,Aderezo para Aves Pescados y Arroz Sazon 60 Gr,SAZON,1399.0,1399.0,1399.0,60.0 gr,7891132001675,1,-34.6037,-58.3816
+2025-11-18 22:22:07.035188,PreciosClaros,arroz,Aderezo para Carnes Legumbres y Arroz Sazon 60 Gr,SAZON,1399.0,1399.0,1399.0,60.0 gr,7891132001668,1,-34.6037,-58.3816
+2025-11-18 22:22:07.035195,PreciosClaros,arroz,Aderezo para Pastas Papas y Arroz Sazon 60 Gr,SAZON,1399.0,1399.0,1399.0,60.0 gr,7891132001699,2,-34.6037,-58.3816
+2025-11-18 22:22:07.035201,PreciosClaros,arroz,Aderezo para Verduras Legumbres y Arroz Sazon 60 Gr,SAZON,1399.0,1399.0,1399.0,60.0 gr,7891132001682,3,-34.6037,-58.3816
+2025-11-18 22:22:07.035207,PreciosClaros,arroz,Alfajor Arroz Bco Ddl Carrefour Classic 3 X 28grs,CARREFOUR CLASSIC,2910.0,2910.0,2910.0,1.0 uni,7791720033647,1,-34.6037,-58.3816
+2025-11-18 22:22:07.035214,PreciosClaros,arroz,Alfajor Arroz Bco Ddl Carrefour Classic X 28grs,CARREFOUR CLASSIC,970.0,970.0,970.0,1.0 uni,7791720033630,14,-34.6037,-58.3816
+2025-11-18 22:22:07.035220,PreciosClaros,arroz,Alfajor Arroz Limon Chocoarroz 22 Gr,CHOCOARROZ,1139.0,1339.0,1139.0,22.0 gr,7790070418241,7,-34.6037,-58.3816
+2025-11-18 22:22:07.035225,PreciosClaros,arroz,Alfajor Arroz Neg Ddl Carrefour Classic 3 X 28grs,CARREFOUR CLASSIC,2910.0,2910.0,2910.0,1.0 uni,7791720033623,2,-34.6037,-58.3816
+2025-11-18 22:22:07.035231,PreciosClaros,arroz,Alfajor Arroz Neg Lim Carrefour Classic 3 X 28grs,CARREFOUR CLASSIC,2910.0,2910.0,2910.0,1.0 uni,7791720033661,1,-34.6037,-58.3816
+2025-11-18 22:22:07.035237,PreciosClaros,arroz,Alfajor Arroz Neg Lim Carrefour Classic X 28grs,CARREFOUR CLASSIC,970.0,970.0,970.0,1.0 uni,7791720033654,14,-34.6037,-58.3816
+2025-11-18 22:22:07.035243,PreciosClaros,arroz,Alfajor de Arroz Dulce de Leche Chocoarroz 22 Gr,CHOCOARROZ,1139.0,1400.0,1139.0,22.0 gr,7790070418203,14,-34.6037,-58.3816
+2025-11-18 22:22:07.035256,PreciosClaros,arroz,Alfajor de Arroz Marroc Chocoarroz 22 Gr,CHOCOARROZ,1139.0,1339.0,1139.0,22.0 gr,7790070418326,9,-34.6037,-58.3816
+2025-11-18 22:22:07.035262,PreciosClaros,arroz,Alfajor de Arroz Marroc Chocoarroz 6 Un,CHOCOARROZ,7195.0,7195.0,7195.0,6.0 un,7790070418340,2,-34.6037,-58.3816
+2025-11-18 22:22:07.035268,PreciosClaros,arroz,Alfajor Blanco Chocoarroz 22 Gr,CHOCOARROZ,1139.0,1139.0,1139.0,22.0 gr,7790070418289,2,-34.6037,-58.3816
+2025-11-18 22:22:07.035274,PreciosClaros,arroz,Alfajor Blanco Chocoarroz 6 Un 22 Gr,CHOCOARROZ,7195.0,7195.0,7195.0,22.0 gr,7790070418302,1,-34.6037,-58.3816
+2025-11-18 22:22:09.528106,PreciosClaros,aceite,Aceite Bronceador Cocoa Beach 250 Ml,COCOA BEACH,13530.0,13530.0,13530.0,250.0 ml,7791274190216,2,-34.6037,-58.3816
+2025-11-18 22:22:09.528121,PreciosClaros,aceite,Aceite Canola Limon sin Gluten Carrefour 500 Ml,CARREFOUR,8750.0,8750.0,8750.0,500.0 ml,7791720025536,2,-34.6037,-58.3816
+2025-11-18 22:22:09.528128,PreciosClaros,aceite,Aceite Canola Sabor Albahaca Sin Gluten Carrefour 500 Ml,CARREFOUR,8750.0,8750.0,8750.0,500.0 ml,7791720025529,1,-34.6037,-58.3816
+2025-11-18 22:22:09.528134,PreciosClaros,aceite,Aceite Canola y Oliva Sin Gluten Carrefour 500 Ml,CARREFOUR,8750.0,8750.0,8750.0,500.0 ml,7791720025499,2,-34.6037,-58.3816
+2025-11-18 22:22:09.528141,PreciosClaros,aceite,Aceite Corporal Carrefour My Baby Bot X 200 Cc,CARREFOUR MY BABY,6110.0,6110.0,6110.0,1.0 uni,7791720044544,2,-34.6037,-58.3816
+2025-11-18 22:22:09.528147,PreciosClaros,aceite,Aceite D/Oliva Extr.Virgen Gold.Blue Morixe Bot 500 Ml,MORIXE,18900.0,18900.0,18900.0,500.0 ml,7790199604556,2,-34.6037,-58.3816
+2025-11-18 22:22:09.528160,PreciosClaros,aceite,Aceite D/Oliva Virgen Extra Andino Natura Bot 500 Ml,NATURA,17299.0,17302.0,17299.0,500.0 ml,7790272008387,4,-34.6037,-58.3816
+2025-11-18 22:22:09.528166,PreciosClaros,aceite,Aceite D/Oliva Virgen Extra Fuerte Natura Pet 500 Ml,NATURA,14480.0,14915.0,14480.0,500.0 ml,7790272008417,8,-34.6037,-58.3816
+2025-11-18 22:22:09.528172,PreciosClaros,aceite,Aceite D/Oliva Virgen Extra Suave Natura Pet 500 Ml,NATURA,14475.0,15359.0,14475.0,500.0 ml,7790272008394,27,-34.6037,-58.3816
+2025-11-18 22:22:09.528178,PreciosClaros,aceite,Aceite De Coco Cosaco 360ml   ,sin marca,6900.0,6900.0,6900.0,1.0 unidad,7790890111919,10,-34.6037,-58.3816
+2025-11-18 22:22:09.528185,PreciosClaros,aceite,Aceite de Girasol Alto Omega Carrefour 1.5 Lt,CARREFOUR,4490.0,4490.0,4490.0,1.5 lt,7791720025123,16,-34.6037,-58.3816
+2025-11-18 22:22:09.528191,PreciosClaros,aceite,Aceite de Girasol Alto Omega Carrefour 900 Ml,CARREFOUR,2850.0,2850.0,2850.0,900.0 ml,7791720025291,16,-34.6037,-58.3816
+2025-11-18 22:22:09.528197,PreciosClaros,aceite,Aceite de Girasol Cañuelas 1.5 Lt,CAÑUELAS,5119.0,5125.0,5119.0,1.5 lt,7792180001665,28,-34.6037,-58.3816
+2025-11-18 22:22:09.528203,PreciosClaros,aceite,Aceite de Girasol Cañuelas 900 Cc,CAÑUELAS,3229.0,3325.0,3229.0,900.0 cc,7792180001641,20,-34.6037,-58.3816
+2025-11-18 22:22:09.528209,PreciosClaros,aceite,Aceite de Girasol Carrefour 120 Ml,CARREFOUR,3780.0,3780.0,3780.0,120.0 ml,7798108340236,15,-34.6037,-58.3816
+2025-11-18 22:22:12.050952,PreciosClaros,azucar,Azucar Comun Azucel 1 Kg,AZUCEL,1040.0,1040.0,1040.0,1.0 kg,7798174970016,10,-34.6037,-58.3816
+2025-11-18 22:22:12.050965,PreciosClaros,azucar,Azucar Comun La Perla 1 Kg,LA PERLA,1050.0,1050.0,1050.0,1.0 kg,7795513048788,7,-34.6037,-58.3816
+2025-11-18 22:22:12.050972,PreciosClaros,azucar,Azucar Comun Tipo A Bella Vista 1 Kg,BELLA VISTA,1050.0,1050.0,1050.0,1.0 kg,7790220000746,7,-34.6037,-58.3816
+2025-11-18 22:22:12.050978,PreciosClaros,azucar,Azucar Comun Tipo A Carrefour Classic 1 Kg,CARREFOUR CLASSIC,999.0,999.0,999.0,1.0 kg,7791720029619,15,-34.6037,-58.3816
+2025-11-18 22:22:12.050984,PreciosClaros,azucar,Azucar Domino,DOMINO,1150.0,1150.0,1150.0,1.0 kg,7799086000389,10,-34.6037,-58.3816
+2025-11-18 22:22:12.050990,PreciosClaros,azucar,Azucar Impalpable,DIA,585.0,585.0,585.0,100.0 gr,8480017305299,10,-34.6037,-58.3816
+2025-11-18 22:22:12.050996,PreciosClaros,azucar,Azucar Impalpable,LAPAR,975.0,975.0,975.0,100.0 gr,7798224212516,2,-34.6037,-58.3816
+2025-11-18 22:22:12.051003,PreciosClaros,azucar,Azucar Impalpable Abucel 500 Gr,ABUCEL,2515.0,2515.0,2515.0,500.0 gr,7798191490153,2,-34.6037,-58.3816
+2025-11-18 22:22:12.051008,PreciosClaros,azucar,Agua Tonica sin Azucar Lata Schweppes 310 Ml,SCHWEPPES ,2100.0,2100.0,2100.0,310.0 ml,7790895648571,16,-34.6037,-58.3816
+2025-11-18 22:22:12.051014,PreciosClaros,azucar,Alimento en Polvo Multicereal sin Azucar Nestum 125 Gr,NESTUM,2045.0,2045.0,2045.0,125.0 gr,8445290118202,4,-34.6037,-58.3816
+2025-11-18 22:22:12.051020,PreciosClaros,azucar,Alimento en Polvo Multicereal sin Azucar Nestum 500 Gr,NESTUM,9290.0,9689.0,9290.0,500.0 gr,8445290615961,13,-34.6037,-58.3816
+2025-11-18 22:22:12.051031,PreciosClaros,azucar,Aperitivo Amargo Pomelo Rosado sin Azucar Peperina y Coriandro Terma 1.35 Lt,TERMA,2349.0,2419.0,2349.0,1.35 lt,7790950141610,28,-34.6037,-58.3816
+2025-11-18 22:22:12.051037,PreciosClaros,azucar,Aperitivo Amargo Pomelo sin Azucar Terma 1.35 Lt,TERMA,2349.0,2349.0,2349.0,1.35 lt,7790950143690,4,-34.6037,-58.3816
+2025-11-18 22:22:12.051043,PreciosClaros,azucar,Azucar,CUQUE,590.0,590.0,590.0,500.0 gr,8480017284402,10,-34.6037,-58.3816
+2025-11-18 22:22:12.051048,PreciosClaros,azucar,Alfajores Dulce de Leche Azucarado Vimar 38 Gr,VIMAR,473.0,473.0,473.0,38.0 gr,0000077958310,16,-34.6037,-58.3816
+2025-11-18 22:22:14.223472,PreciosClaros,harina,Harina 000 C/Vit,FAVOR,970.0,999.0,970.0,1.0 kg,7790070562258,20,-34.6037,-58.3816
+2025-11-18 22:22:14.223487,PreciosClaros,harina,Harina 000 Fortificada con Calcio Cañuelas 1 Kg,CAÑUELAS,1025.0,1055.0,1025.0,1.0 kg,7792180139320,19,-34.6037,-58.3816
+2025-11-18 22:22:14.223494,PreciosClaros,harina,Harina 000 Tassara 1 Kg,TASSARA,849.0,849.0,849.0,1.0 kg,7792612000709,1,-34.6037,-58.3816
+2025-11-18 22:22:14.223501,PreciosClaros,harina,Harina 0000 C/Vit,FAVOR,1429.0,1469.0,1429.0,1.0 kg,7790070562265,23,-34.6037,-58.3816
+2025-11-18 22:22:14.223507,PreciosClaros,harina,Harina 0000 Tassara 1 Kg,TASSARA,1155.0,1155.0,1155.0,1.0 kg,7792612000716,2,-34.6037,-58.3816
+2025-11-18 22:22:14.223513,PreciosClaros,harina,Harina 100% Integral Pureza 1 Kg,PUREZA,1799.0,1869.0,1799.0,1.0 kg,7792180134516,26,-34.6037,-58.3816
+2025-11-18 22:22:14.223532,PreciosClaros,harina,Harina Blancaflor 000 Pqx1kg,Sin marca,1080.0,1109.0,1080.0,None none,7790070562203,4,-34.6037,-58.3816
+2025-11-18 22:22:14.223538,PreciosClaros,harina,Harina con Levadura para Pan Casero Pureza 1 Kg,PUREZA,1980.0,1980.0,1980.0,1.0 kg,7792180004901,2,-34.6037,-58.3816
+2025-11-18 22:22:14.223544,PreciosClaros,harina,Harina con Levadura Pizza Pureza 1 Kg,PUREZA,1480.0,2040.0,1480.0,1.0 kg,7792180004567,23,-34.6037,-58.3816
+2025-11-18 22:22:14.223550,PreciosClaros,harina,Harina con Masa Madres Especial para Pizza Pureza 1 Kg,PUREZA,2379.0,2380.0,2379.0,1.0 kg,7792180141941,12,-34.6037,-58.3816
+2025-11-18 22:22:14.223554,PreciosClaros,harina,Copos de Harina de Maiz Azucarados 80 Gr,SIN MARCA,699.0,790.0,699.0,80.0 gr,2646570000002,16,-34.6037,-58.3816
+2025-11-18 22:22:14.223560,PreciosClaros,harina,Galletitas Harina Integral Algarroba Cachafaz 225 Gr,CACHAFAZ,3055.0,3340.0,3055.0,225.0 gr,7798128000684,13,-34.6037,-58.3816
+2025-11-18 22:22:14.223591,PreciosClaros,harina,Galletitas Harina Integral con Avena Almendra Cachafaz 225 Gr,CACHAFAZ,3055.0,3455.0,3055.0,225.0 gr,7798128000707,28,-34.6037,-58.3816
+2025-11-18 22:22:14.223597,PreciosClaros,harina,Galletitas Harina Integral con Avena y Chips Cachafaz 225 Gr,CACHAFAZ,3340.0,3455.0,3340.0,225.0 gr,7798128000691,28,-34.6037,-58.3816
+2025-11-18 22:22:14.223603,PreciosClaros,harina,Galletitas Harina Integral con Avena y Pasas Cachafaz 225 Gr,CACHAFAZ,3055.0,3199.0,3055.0,225.0 gr,7798128000677,12,-34.6037,-58.3816

@@ -1,0 +1,446 @@
+timestamp,fuente,categoria,nombre,marca,precio_min,precio_max,precio,presentacion,ean,sucursales_disponibles,lat,lng
+2025-12-10 21:12:02.012858,PreciosClaros,leche entera,Leche Entera 3% Uat La Serenisima 1 Lt,LA SERENÍSIMA,2480.0,2850.0,2480.0,1.0 lt,7790742335500,28,-34.6037,-58.3816
+2025-12-10 21:12:02.012871,PreciosClaros,leche entera,Leche Entera Clasica 3 % Fortificada Tetra La Serenisima 200 Ml,LA SERENÍSIMA,1090.0,1350.0,1090.0,200.0 ml,7790742357205,5,-34.6037,-58.3816
+2025-12-10 21:12:02.012877,PreciosClaros,leche entera,Leche Entera en Sachet Coto 1 Lt,COTO,1390.0,1390.0,1390.0,1.0 lt,7798039600058,2,-34.6037,-58.3816
+2025-12-10 21:12:02.012881,PreciosClaros,leche entera,Leche Entera Ilolay 1 Lt,ILOLAY,2049.0,2049.0,2049.0,1.0 lt,7790787002528,2,-34.6037,-58.3816
+2025-12-10 21:12:02.012886,PreciosClaros,leche entera,Leche Entera Larga Vida Milkaut 1 Lt,MILKAUT,2100.0,2100.0,2100.0,1.0 lt,7794820903100,23,-34.6037,-58.3816
+2025-12-10 21:12:02.012891,PreciosClaros,leche entera,Leche Entera Larga Vida Tradicion Tres Niñas 1 Lt,TRES NIÑAS,2250.0,2290.0,2250.0,1.0 lt,7798338290028,27,-34.6037,-58.3816
+2025-12-10 21:12:02.012902,PreciosClaros,leche entera,Leche Entera Larga Vida Vitamina A y D Ciudad Del Lago 1 Lt,CIUDAD DEL LAGO,1189.0,1189.0,1189.0,1.0 lt,12-1-2800000798505,2,-34.6037,-58.3816
+2025-12-10 21:12:02.012906,PreciosClaros,leche entera,Leche Entera Uat Larga Vida Dia 1 Lt,DÍA,1690.0,1690.0,1690.0,1.0 lt,8480017006080,23,-34.6037,-58.3816
+2025-12-10 21:12:02.012910,PreciosClaros,leche entera,Leche Entera UAT Larga Vida en Carton Coto 1 Lt,COTO,1799.0,1799.0,1799.0,1.0 lt,7798039600034,2,-34.6037,-58.3816
+2025-12-10 21:12:02.012915,PreciosClaros,leche entera,Leche Entera UAT Larga Vida en Tetra Brick Manfrey 1 Lt,MANFREY,2050.0,2050.0,2050.0,1.0 lt,7791058000731,2,-34.6037,-58.3816
+2025-12-10 21:12:02.012920,PreciosClaros,leche entera,Leche Entera UAT Larga Vida Tregar 1 Lt,TREGAR,2040.0,2150.0,2040.0,1.0 lt,7793913001822,24,-34.6037,-58.3816
+2025-12-10 21:12:02.012925,PreciosClaros,leche entera,Casanto Leche Entera 3 Sachet Casanto 1 Lt,CASANTO,1290.0,1650.0,1290.0,1.0 lt,7790742192301,26,-34.6037,-58.3816
+2025-12-10 21:12:02.012929,PreciosClaros,leche entera,Leche en Polvo Entera Bolsa La Serenisima 200 Gr,LA SERENÍSIMA,3236.0,3236.0,3236.0,200.0 gr,7790742436108,2,-34.6037,-58.3816
+2025-12-10 21:12:02.012934,PreciosClaros,leche entera,Leche en Polvo Entera con Vitaminas Purisima 200 Gr,PURÍSIMA,2670.0,2670.0,2670.0,200.0 gr,7798095171721,23,-34.6037,-58.3816
+2025-12-10 21:12:02.012939,PreciosClaros,leche entera,Leche en Polvo Entera Dia 400 Gr,DÍA,5050.0,5050.0,5050.0,400.0 gr,8480017034595,23,-34.6037,-58.3816
+2025-12-10 21:12:02.012943,PreciosClaros,leche entera,Leche en Polvo Entera Dia 800 Gr,DÍA,9100.0,9100.0,9100.0,800.0 gr,8480017297013,23,-34.6037,-58.3816
+2025-12-10 21:12:02.012951,PreciosClaros,leche entera,Leche en Polvo Entera Fortificada Santa Clara 400 Gr,SANTA CLARA,4649.0,4649.0,4649.0,400.0 gr,7798312320390,2,-34.6037,-58.3816
+2025-12-10 21:12:02.012956,PreciosClaros,leche entera,Leche en Polvo Entera La Serenisima 400 Gr,LA SERENÍSIMA,6178.0,6178.0,6178.0,400.0 gr,7790742436306,2,-34.6037,-58.3816
+2025-12-10 21:12:02.012960,PreciosClaros,leche entera,Leche en Polvo Entera Purisima Plus 800 Gr,PURÍSIMA,11450.0,11650.0,11450.0,800.0 gr,7798095171363,3,-34.6037,-58.3816
+2025-12-10 21:12:02.012965,PreciosClaros,leche entera,Leche en Polvo Entera Vitamina A y D Purisima 400 Gr,PURÍSIMA,6900.0,6900.0,6900.0,400.0 gr,7798095171813,2,-34.6037,-58.3816
+2025-12-10 21:12:02.012970,PreciosClaros,leche entera,Leche en Polvo Entera Zero Lactosa La Serenisima 400 Gr,LA SERENÍSIMA,7914.0,7914.0,7914.0,400.0 gr,7790742436504,4,-34.6037,-58.3816
+2025-12-10 21:12:02.012974,PreciosClaros,leche entera,Leche Larga Vida Entera Clasica 3% La Serenisima 1 Lt,LA SERENISIMA,2365.0,2365.0,2365.0,1.0 lt,7790742363008,28,-34.6037,-58.3816
+2025-12-10 21:12:04.813395,PreciosClaros,leche descremada,Leche Descremada 0 Uat Tetra Las Tres Ninas 1 Lt,LAS TRES NIÑAS,2290.0,2290.0,2290.0,1.0 lt,7798338290301,4,-34.6037,-58.3816
+2025-12-10 21:12:04.813412,PreciosClaros,leche descremada,Leche Descremada 2% Sachet Casanto 1 Lt,CASANTO,1290.0,1650.0,1290.0,1.0 lt,7790742192202,27,-34.6037,-58.3816
+2025-12-10 21:12:04.813420,PreciosClaros,leche descremada,Leche Descremada Barista Larga Vida Botella La Serenisima 1 Lt,LA SERENÍSIMA,2539.0,2900.0,2539.0,1.0 lt,7790742358400,5,-34.6037,-58.3816
+2025-12-10 21:12:04.813426,PreciosClaros,leche descremada,Leche Descremada en Sachet Coto 1 Lt,COTO,1390.0,1390.0,1390.0,1.0 lt,7798039600065,2,-34.6037,-58.3816
+2025-12-10 21:12:04.813440,PreciosClaros,leche descremada,Leche Descremada Larga Vida Vitamina A y D Ciudad Del Lago 1 Lt,CIUDAD DEL LAGO,1189.0,1189.0,1189.0,1.0 lt,12-1-2800000798512,2,-34.6037,-58.3816
+2025-12-10 21:12:04.813447,PreciosClaros,leche descremada,Leche Descremada Protein Larga Vida Uat La Serenisima 1 Lt,LA SERENÍSIMA,2539.0,2900.0,2539.0,1.0 lt,7790742358608,28,-34.6037,-58.3816
+2025-12-10 21:12:04.813454,PreciosClaros,leche descremada,Leche Descremada Sachet 1Casanto 1 Lt,CASANTO,1290.0,1650.0,1290.0,1.0 lt,7790742192103,27,-34.6037,-58.3816
+2025-12-10 21:12:04.813460,PreciosClaros,leche descremada,Leche Descremada Uat 0 La Serenisima 1 Lt,LA SERENÍSIMA,2482.0,2850.0,2482.0,1.0 lt,7790742335302,5,-34.6037,-58.3816
+2025-12-10 21:12:04.813466,PreciosClaros,leche descremada,Leche Descremada UAT Fortificada con Vitamina A y D Coto 1 Lt,COTO,1799.0,1799.0,1799.0,1.0 lt,7798039600041,2,-34.6037,-58.3816
+2025-12-10 21:12:04.813472,PreciosClaros,leche descremada,Leche Descremada Uat Fortificada Hierro Botella 1 La Serenisima 1 Lt,LA SERENÍSIMA,2539.0,2900.0,2539.0,1.0 lt,7790742335807,5,-34.6037,-58.3816
+2025-12-10 21:12:04.813479,PreciosClaros,leche descremada,Leche Descremada Uat Larga Vida Dia 1 Lt,DÍA,1690.0,1690.0,1690.0,1.0 lt,8480017005045,23,-34.6037,-58.3816
+2025-12-10 21:12:04.813484,PreciosClaros,leche descremada,Leche Descremada Uat Vitamina Extra Calcio Botella La Serenisima 1 Lt,LA SERENÍSIMA,2539.0,2800.0,2539.0,1.0 lt,7790742335906,4,-34.6037,-58.3816
+2025-12-10 21:12:04.813491,PreciosClaros,leche descremada,Leche Descremada Uht Las Tres Niñas 1 Lt,LAS TRES NIÑAS,2250.0,2290.0,2250.0,1.0 lt,7798338290035,28,-34.6037,-58.3816
+2025-12-10 21:12:04.813496,PreciosClaros,leche descremada,Bebida a Base de Leche Descremada Proteina Chocolate La Serenisima Ttb 1 Lt,LA SERENÍSIMA,3975.0,3975.0,3975.0,1.0 lt,7790742172105,2,-34.6037,-58.3816
+2025-12-10 21:12:04.813508,PreciosClaros,leche descremada,Leche Condensada Descremada Nestle 395 Gr,NESTLÉ,4768.0,5050.0,4768.0,395.0 gr,8445290883858,28,-34.6037,-58.3816
+2025-12-10 21:12:04.813515,PreciosClaros,leche descremada,Leche Condensada Descremada sin TACC Nestle 395 Gr,NESTLÉ,4768.0,5050.0,4768.0,395.0 gr,8445290900654,5,-34.6037,-58.3816
+2025-12-10 21:12:04.813521,PreciosClaros,leche descremada,Leche en Polvo Descremada Dia 400 Gr,DÍA,5050.0,5050.0,5050.0,400.0 gr,8480017020253,23,-34.6037,-58.3816
+2025-12-10 21:12:04.813527,PreciosClaros,leche descremada,Leche en Polvo Descremada Dia 800 Gr,DÍA,9100.0,9100.0,9100.0,800.0 gr,8480017297044,23,-34.6037,-58.3816
+2025-12-10 21:12:04.813533,PreciosClaros,leche descremada,Leche en Polvo Descremada Extra Calcio Svelty 370 Gr,SVELTY,7900.0,8050.0,7900.0,370.0 gr,8445291020047,3,-34.6037,-58.3816
+2025-12-10 21:12:04.813539,PreciosClaros,leche descremada,Leche en Polvo Descremada Fortificada La Serenisima 200 Gr,LA SERENÍSIMA,3235.0,3236.0,3235.0,200.0 gr,7790742436207,28,-34.6037,-58.3816
+2025-12-10 21:12:04.813545,PreciosClaros,leche descremada,Leche en Polvo Descremada Fortificada La Serenisima 400 Gr,LA SERENÍSIMA,6523.0,6523.0,6523.0,400.0 gr,7790742436405,4,-34.6037,-58.3816
+2025-12-10 21:12:04.813551,PreciosClaros,leche descremada,Leche en Polvo Descremada Svelty 750 Gr,SVELTY,14500.0,14800.0,14500.0,750.0 gr,8445291020061,3,-34.6037,-58.3816
+2025-12-10 21:12:04.813557,PreciosClaros,leche descremada,Leche Fermentada Parcialmente Descremada con Probioticos Frutilla Actimel 100 Gr,ACTIMEL,1725.0,2000.0,1725.0,100.0 gr,7791337007802,28,-34.6037,-58.3816
+2025-12-10 21:12:04.813563,PreciosClaros,leche descremada,Leche Fermentada Parcialmente Descremada con Probioticos Multifruta Actimel 100 Gr,ACTIMEL,1725.0,2000.0,1725.0,100.0 gr,7791337007819,28,-34.6037,-58.3816
+2025-12-10 21:12:04.813576,PreciosClaros,leche descremada,Leche Larga Vida Parcialmente Descremada Clasica 2% La Serenisima 1 Lt,LA SERENISIMA,2365.0,2365.0,2365.0,1.0 lt,7790742363206,25,-34.6037,-58.3816
+2025-12-10 21:12:04.813582,PreciosClaros,leche descremada,Leche Larga Vida Parcialmente Descremada Liviana 1% La Serenisima 1 Lt,LA SERENISIMA,2365.0,2365.0,2365.0,1.0 lt,7790742363107,28,-34.6037,-58.3816
+2025-12-10 21:12:04.813588,PreciosClaros,leche descremada,Leche Larga Vida Parcialmente Descremada Milkaut 1 Lt,MILKAUT,2100.0,2100.0,2100.0,1.0 lt,7794820903117,23,-34.6037,-58.3816
+2025-12-10 21:12:04.813594,PreciosClaros,leche descremada,Leche Parcialmente Descremada 1% Uat 1 Lt,LA SERENÍSIMA,2480.0,2850.0,2480.0,1.0 lt,7790742335609,28,-34.6037,-58.3816
+2025-12-10 21:12:04.813600,PreciosClaros,leche descremada,Leche Parcialmente Descremada Botella La Serenisima 2 Un 1 Lt,LA SERENÍSIMA,2480.0,2850.0,2480.0,1.0 lt,7790742335401,27,-34.6037,-58.3816
+2025-12-10 21:12:04.813606,PreciosClaros,leche descremada,Leche Parcialmente Descremada Deslactosada Tetra Coto1 Lt,COTO,1899.0,1899.0,1899.0,1.0 lt,7791599798500,2,-34.6037,-58.3816
+2025-12-10 21:12:07.868475,PreciosClaros,yogur,Yogur Batido Descremado Clasico Vainilla La Serenisima 120 Gr,LA SERENÍSIMA,1105.0,1250.0,1105.0,120.0 gr,7791337007413,28,-34.6037,-58.3816
+2025-12-10 21:12:07.868490,PreciosClaros,yogur,Yogur Batido Descremado con Durazno Familia Beaudroit 160 Gr,FAMILIA BEAUDROIT,2850.0,2850.0,2850.0,160.0 gr,7798327950100,2,-34.6037,-58.3816
+2025-12-10 21:12:07.868497,PreciosClaros,yogur,Yogur Batido Descremado con Frutilla Familia Beaudroit 160 Gr,FAMILIA BEAUDROIT,2850.0,2900.0,2850.0,160.0 gr,7798327950094,2,-34.6037,-58.3816
+2025-12-10 21:12:07.868504,PreciosClaros,yogur,Yogur Batido Descremado con Frutos Familia Beaudroit 160 Gr,FAMILIA BEAUDROIT,2850.0,2900.0,2850.0,160.0 gr,7798327950117,3,-34.6037,-58.3816
+2025-12-10 21:12:07.868517,PreciosClaros,yogur,Yogur Batido Descremado con Mango y Maracuya Dahi 190 Gr,DAHI,2950.0,2950.0,2950.0,190.0 gr,7798136870729,2,-34.6037,-58.3816
+2025-12-10 21:12:07.868524,PreciosClaros,yogur,Yogur Batido Descremado Natural Familia Beaudroit 160 Gr,FAMILIA BEAUDROIT,2750.0,2750.0,2750.0,160.0 gr,7798327950070,1,-34.6037,-58.3816
+2025-12-10 21:12:07.868530,PreciosClaros,yogur,Yogur Batido Descremado Sab. Coco Dahi Pot 170 Grm,DAHI,1800.0,1800.0,1800.0,170.0 grm,7798136870521,1,-34.6037,-58.3816
+2025-12-10 21:12:07.868537,PreciosClaros,yogur,Yogur Batido Descremado Sab. Mora Dahi Pot 170 Grm,DAHI,1800.0,1800.0,1800.0,170.0 grm,7798136870538,1,-34.6037,-58.3816
+2025-12-10 21:12:07.868542,PreciosClaros,yogur,Yogur Batido Descremado sabor Frutilla Gran Compra 120 Gr,GRAN COMPRA,795.0,850.0,795.0,120.0 gr,7791337008236,24,-34.6037,-58.3816
+2025-12-10 21:12:07.868549,PreciosClaros,yogur,Yogur Batido Descremado sabor Frutilla Pote La Serenisima 120 Gr,LA SERENÍSIMA,1105.0,1250.0,1105.0,120.0 gr,7791337007369,28,-34.6037,-58.3816
+2025-12-10 21:12:07.868555,PreciosClaros,yogur,Yogur Batido Descremado sabor Vainilla Gran Compra 120 Gr,GRAN COMPRA,795.0,795.0,795.0,120.0 gr,7791337008212,23,-34.6037,-58.3816
+2025-12-10 21:12:07.868561,PreciosClaros,yogur,Yogur Batido Descremado Vainilla Familia Beaudroit 160 Gr,FAMILIA BEAUDROIT,2750.0,2750.0,2750.0,160.0 gr,7798327950087,1,-34.6037,-58.3816
+2025-12-10 21:12:07.868567,PreciosClaros,yogur,Yogur Batido Entero con Frutilla Familia Beaudroit 160 Gr,FAMILIA BEAUDROIT,2850.0,2900.0,2850.0,160.0 gr,7798327950032,2,-34.6037,-58.3816
+2025-12-10 21:12:07.868573,PreciosClaros,yogur,Yogur Batido Entero con Frutos Rojos Familia Beaudroit 160 Gr,FAMILIA BEAUDROIT,2850.0,2900.0,2850.0,160.0 gr,7798327950056,3,-34.6037,-58.3816
+2025-12-10 21:12:07.868585,PreciosClaros,yogur,Yogur Batido Entero con Trozos de Durazno Dahi 190 Gr,DAHI,2950.0,2950.0,2950.0,190.0 gr,7798136870644,2,-34.6037,-58.3816
+2025-12-10 21:12:07.868591,PreciosClaros,yogur,Yogur Batido Entero Natural Familia Beaudroit 160 Gr,FAMILIA BEAUDROIT,2750.0,2750.0,2750.0,160.0 gr,7798327950018,2,-34.6037,-58.3816
+2025-12-10 21:12:07.868598,PreciosClaros,yogur,Yogur Batido Entero Vainilla Familia Beaudroit 160 Gr,FAMILIA BEAUDROIT,2750.0,2750.0,2750.0,160.0 gr,7798327950025,1,-34.6037,-58.3816
+2025-12-10 21:12:07.868604,PreciosClaros,yogur,Barra de Cereal Yogur Light Flow Cereal 20 Un 24 Gr,FLOW CEREAL,750.0,750.0,750.0,24.0 gr,7790380020172,3,-34.6037,-58.3816
+2025-12-10 21:12:07.868610,PreciosClaros,yogur,Barra de Cereales con Yogur Frutos del Bosque Flow 27 Gr,FLOW,750.0,754.0,750.0,27.0 gr,7790380016199,5,-34.6037,-58.3816
+2025-12-10 21:12:07.868616,PreciosClaros,yogur,Chocolate con Yogur Frutilla Cofler 64 Gr,COFLER,3700.0,3700.0,3700.0,64.0 gr,7790580123642,2,-34.6037,-58.3816
+2025-12-10 21:12:07.868622,PreciosClaros,yogur,Galletitas Avena Yogur Frutilla 9 Oro 180 Gr,9 DE ORO,2298.0,2298.0,2298.0,180.0 gr,7792180132925,1,-34.6037,-58.3816
+2025-12-10 21:12:07.868628,PreciosClaros,yogur,Tableta de Chocolate con Yogur Frutilla Cadbury 80 Gr,CADBURY,7000.0,7000.0,7000.0,80.0 gr,7622201818715,2,-34.6037,-58.3816
+2025-12-10 21:12:07.868634,PreciosClaros,yogur,Tableta de Chocolate Yogur Frutilla Cadbury 160 Gr,CADBURY,12700.0,12950.0,12700.0,160.0 gr,7622201818692,3,-34.6037,-58.3816
+2025-12-10 21:12:07.868640,PreciosClaros,yogur,Barr Frut Bosq Yogur,DIA,2250.0,2250.0,2250.0,3.0 ud,8480017291738,23,-34.6037,-58.3816
+2025-12-10 21:12:07.868652,PreciosClaros,yogur,Dnn Yogurisimo Bebible Frutilla Fort 190gr,YOGURISIMO,2965.0,3300.0,2965.0,0.18 kg,7791337009387,28,-34.6037,-58.3816
+2025-12-10 21:12:07.868658,PreciosClaros,yogur,Dnn Yogurisimo Bebible Vainilla Fort 190gr,YOGURISIMO,2965.0,3300.0,2965.0,0.18 kg,7791337009356,5,-34.6037,-58.3816
+2025-12-10 21:12:07.868664,PreciosClaros,yogur,Yog.Beb.C/Prob.P/Desc.Sab.Fru. Yogurisimo Sch 1100 Grm,YOGURISIMO,6215.0,6500.0,6215.0,1100.0 grm,7791337008625,4,-34.6037,-58.3816
+2025-12-10 21:12:07.868670,PreciosClaros,yogur,Yog.Beb.C/Prob.P/Desc.Sab.Vai. Yogurisimo Sch 1100 Grm,YOGURISIMO,6215.0,6500.0,6215.0,1100.0 grm,7791337008618,4,-34.6037,-58.3816
+2025-12-10 21:12:07.868676,PreciosClaros,yogur,Yog.Beb.Sab.Natural Yogurisimo Sch 900 Grm,YOGURISIMO,5650.0,5650.0,5650.0,900.0 grm,7791337009776,25,-34.6037,-58.3816
+2025-12-10 21:12:07.868682,PreciosClaros,yogur,Barra Frut C/Yogur,DIA,790.0,790.0,790.0,25.0 gr,8480017298485,23,-34.6037,-58.3816
+2025-12-10 21:12:15.736477,PreciosClaros,arroz doble carolina,Arroz Doble Carolina Don Marcos 1 Kg,DON MARCOS,2499.0,2499.0,2499.0,1.0 kg,7790847060581,2,-34.6037,-58.3816
+2025-12-10 21:12:15.736497,PreciosClaros,arroz doble carolina,Arroz Doble Carolina Dos Hermanos 1 Kg,DOS HERMANOS,3700.0,3700.0,3700.0,1.0 kg,7790503008667,1,-34.6037,-58.3816
+2025-12-10 21:12:15.736508,PreciosClaros,arroz doble carolina,Arroz Doble Carolina Lucchetti 1 Kg,LUCCHETTI,3783.0,3783.0,3783.0,1.0 kg,7790070431462,2,-34.6037,-58.3816
+2025-12-10 21:12:15.736518,PreciosClaros,arroz doble carolina,Arroz Doble Carolina Molinos Ala 1 Kg,MOLINOS ALA,2270.0,3350.0,2270.0,1.0 kg,7791120021558,25,-34.6037,-58.3816
+2025-12-10 21:12:15.736559,PreciosClaros,arroz doble carolina,Arroz Doble Carolina Molinos Ala 500 Gr,MOLINOS ALA,1950.0,1950.0,1950.0,500.0 gr,7791120021565,2,-34.6037,-58.3816
+2025-12-10 21:12:15.736569,PreciosClaros,arroz doble carolina,Arroz Doble Carolina Seleccion Gallo 1 Kg,GALLO,4650.0,4750.0,4650.0,1.0 kg,7790070431578,4,-34.6037,-58.3816
+2025-12-10 21:12:21.670490,PreciosClaros,arroz largo fino,Arroz Largo Fino 0000 Ciudad Del Lago 1 Kg,CIUDAD DEL LAGO,1750.0,1750.0,1750.0,1.0 kg,12-1-2800001326455,2,-34.6037,-58.3816
+2025-12-10 21:12:21.670513,PreciosClaros,arroz largo fino,Arroz Largo Fino 00000 Don Marcos 500 Gr,DON MARCOS,999.0,999.0,999.0,500.0 gr,7790847060574,2,-34.6037,-58.3816
+2025-12-10 21:12:21.670521,PreciosClaros,arroz largo fino,Arroz Largo Fino 00000 Dos Hermanos 1 Kg,DOS HERMANOS,1770.0,1770.0,1770.0,1.0 kg,7790503199082,2,-34.6037,-58.3816
+2025-12-10 21:12:21.670529,PreciosClaros,arroz largo fino,Arroz Largo Fino 00000 Molinos Ala 1 Kg,MOLINOS ALA,1790.0,1850.0,1790.0,1.0 kg,7791120031557,25,-34.6037,-58.3816
+2025-12-10 21:12:21.670535,PreciosClaros,arroz largo fino,Arroz Largo Fino 00000 Molinos Ala 500 Gr,MOLINOS ALA,1050.0,1050.0,1050.0,500.0 gr,7791120031564,23,-34.6037,-58.3816
+2025-12-10 21:12:21.670543,PreciosClaros,arroz largo fino,Arroz Largo Fino 00000 Rojo Carogran 1 Kg,CAROGRAN,1299.0,1299.0,1299.0,1.0 kg,7793650000010,2,-34.6037,-58.3816
+2025-12-10 21:12:21.670549,PreciosClaros,arroz largo fino,Arroz Largo Fino 00000 sin TACC Maximo 500 Gr,MÁXIMO,800.0,800.0,800.0,500.0 gr,7790070412171,23,-34.6037,-58.3816
+2025-12-10 21:12:21.670556,PreciosClaros,arroz largo fino,Arroz Largo Fino 00000 Vanguardia 1 Kg,VANGUARDIA,1250.0,1599.0,1250.0,1.0 kg,7798078450126,26,-34.6037,-58.3816
+2025-12-10 21:12:21.670570,PreciosClaros,arroz largo fino,Arroz Largo Fino 00000 Vanguardia 500 Gr,VANGUARDIA,790.0,790.0,790.0,500.0 gr,7798078450393,23,-34.6037,-58.3816
+2025-12-10 21:12:21.670577,PreciosClaros,arroz largo fino,Arroz Largo Fino Carmabe 1 Kg,CARMABE,1225.0,1225.0,1225.0,1.0 kg,7795091000123,23,-34.6037,-58.3816
+2025-12-10 21:12:21.670584,PreciosClaros,arroz largo fino,Arroz Largo Fino Dos Hermanos 500 Gr,DOS HERMANOS,999.0,999.0,999.0,500.0 gr,7790503199129,2,-34.6037,-58.3816
+2025-12-10 21:12:21.670591,PreciosClaros,arroz largo fino,Arroz Largo Fino Gallo 1 Kg,GALLO,2300.0,2300.0,2300.0,1.0 kg,7790070431448,2,-34.6037,-58.3816
+2025-12-10 21:12:21.670597,PreciosClaros,arroz largo fino,Arroz Largo Fino Luchetti 1 Kg,LUCCHETTI,1836.0,1900.0,1836.0,1.0 kg,7790070431486,26,-34.6037,-58.3816
+2025-12-10 21:12:21.670604,PreciosClaros,arroz largo fino,Arroz Largo Fino Luchetti 500 Gr,LUCCHETTI,1000.0,1014.0,1000.0,500.0 gr,7790070431493,4,-34.6037,-58.3816
+2025-12-10 21:12:21.670610,PreciosClaros,arroz largo fino,Arroz Largo Fino sin TACC Maximo 1 kG,MÁXIMO,1525.0,1525.0,1525.0,1.0 kg,7790070412126,23,-34.6037,-58.3816
+2025-12-10 21:12:21.670617,PreciosClaros,arroz largo fino,Arroz Grano Largo Fino Ita Caabo Molinos Ala 1 Kg,MOLINOS ALA,1750.0,2600.0,1750.0,1.0 kg,7791120100819,24,-34.6037,-58.3816
+2025-12-10 21:12:24.535731,PreciosClaros,fideos guiseros,Fideos Guiseros Semolado Mostacholes Coto 500 Gr,COTO,1400.0,1400.0,1400.0,500.0 gr,12-1-2800002437815,2,-34.6037,-58.3816
+2025-12-10 21:12:24.535746,PreciosClaros,fideos guiseros,Fideos Guiseros Semolado Mostacholes Cuidad del Lago 500 Gr,CIUDAD DEL LAGO,1050.0,1050.0,1050.0,500.0 gr,12-1-2800002545886,2,-34.6037,-58.3816
+2025-12-10 21:12:24.535766,PreciosClaros,fideos guiseros,Fideos Guiseros Semolados Tirabuzon Coto 500 Gr,COTO,1400.0,1400.0,1400.0,500.0 gr,12-1-2800002437808,2,-34.6037,-58.3816
+2025-12-10 21:12:24.535773,PreciosClaros,fideos guiseros,Fideos Guiseros Semolados Tortiglioni Delverde 500 Gr,DELVERDE,7150.0,7150.0,7150.0,500.0 gr,8006680040376,1,-34.6037,-58.3816
+2025-12-10 21:12:24.535779,PreciosClaros,fideos guiseros,Fideos Guiseros Tirabuzon 3 Vegetales Lucchetti 500 Gr,MATARAZZO,1920.0,2050.0,1920.0,500.0 gr,7790070336057,28,-34.6037,-58.3816
+2025-12-10 21:12:27.824445,PreciosClaros,aceite girasol 900,Aceite de Girasol Cañuelas 900 Cc,CAÑUELAS,3229.75,3350.0,3229.75,900.0 cc,7792180001641,27,-34.6037,-58.3816
+2025-12-10 21:12:27.824458,PreciosClaros,aceite girasol 900,Aceite de Girasol Cocinero 900 Ml,COCINERO,3205.0,3400.0,3205.0,900.0 ml,7790070012050,28,-34.6037,-58.3816
+2025-12-10 21:12:27.824464,PreciosClaros,aceite girasol 900,Aceite de Girasol Dia 900 Ml,DÍA,3090.0,3090.0,3090.0,900.0 ml,8480017181770,23,-34.6037,-58.3816
+2025-12-10 21:12:27.824469,PreciosClaros,aceite girasol 900,Aceite de Girasol Legitimo 900 Ml,LEGÍTIMO,3050.0,3109.0,3050.0,900.0 ml,7798316700808,25,-34.6037,-58.3816
+2025-12-10 21:12:27.824474,PreciosClaros,aceite girasol 900,Aceite de Girasol Lira 900 Cc,LIRA,3550.0,3550.0,3550.0,900.0 cc,7790070231468,1,-34.6037,-58.3816
+2025-12-10 21:12:27.824479,PreciosClaros,aceite girasol 900,Aceite de Girasol Natura 900 Ml,NATURA,3455.0,3650.0,3455.0,900.0 ml,7790272001005,28,-34.6037,-58.3816
+2025-12-10 21:12:27.824485,PreciosClaros,aceite girasol 900,Aceite de Girasol Pureza 900 Ml,PUREZA,3468.23,3468.23,3468.23,900.0 ml,7792180137937,2,-34.6037,-58.3816
+2025-12-10 21:12:27.824503,PreciosClaros,aceite girasol 900,Aceite Mezcla Girasol y Oliva Cocinero 900 Cc,COCINERO,5440.0,5440.0,5440.0,900.0 cc,7790070231598,1,-34.6037,-58.3816
+2025-12-10 21:12:27.824509,PreciosClaros,aceite girasol 900,Aceite Mezcla Girasol y Oliva Copisi 900 Ml,COPISI,4856.0,4856.0,4856.0,900.0 ml,7790272006819,2,-34.6037,-58.3816
+2025-12-10 21:12:27.824516,PreciosClaros,aceite girasol 900,Aceite Mezcla Girasol y Oliva Blend Natura 900 Ml,NATURA,5750.0,5850.0,5750.0,900.0 ml,7790272000046,3,-34.6037,-58.3816
+2025-12-10 21:12:30.502373,PreciosClaros,aceite girasol,Aceite de Girasol Cañuelas 1.5 Lt,CAÑUELAS,5118.0,5400.0,5118.0,1.5 lt,7792180001665,28,-34.6037,-58.3816
+2025-12-10 21:12:30.502389,PreciosClaros,aceite girasol,Aceite de Girasol Cañuelas 900 Cc,CAÑUELAS,3229.75,3350.0,3229.75,900.0 cc,7792180001641,27,-34.6037,-58.3816
+2025-12-10 21:12:30.502397,PreciosClaros,aceite girasol,Aceite de Girasol Cocinero 1.5 Lt,COCINERO,5069.0,5250.0,5069.0,1.5 lt,7790060023684,27,-34.6037,-58.3816
+2025-12-10 21:12:30.502404,PreciosClaros,aceite girasol,Aceite de Girasol Cocinero 900 Ml,COCINERO,3205.0,3400.0,3205.0,900.0 ml,7790070012050,28,-34.6037,-58.3816
+2025-12-10 21:12:30.502412,PreciosClaros,aceite girasol,Aceite de Girasol Dia 1.5 Lt,DÍA,4890.0,4890.0,4890.0,1.5 lt,8480017241146,23,-34.6037,-58.3816
+2025-12-10 21:12:30.502419,PreciosClaros,aceite girasol,Aceite de Girasol Dia 900 Ml,DÍA,3090.0,3090.0,3090.0,900.0 ml,8480017181770,23,-34.6037,-58.3816
+2025-12-10 21:12:30.502425,PreciosClaros,aceite girasol,Aceite de Girasol Legitimo 1.5 Lt,LEGÍTIMO,4800.0,5015.0,4800.0,1.5 lt,7798316700815,26,-34.6037,-58.3816
+2025-12-10 21:12:30.502433,PreciosClaros,aceite girasol,Aceite de Girasol Legitimo 900 Ml,LEGÍTIMO,3050.0,3109.0,3050.0,900.0 ml,7798316700808,25,-34.6037,-58.3816
+2025-12-10 21:12:30.502439,PreciosClaros,aceite girasol,Aceite de Girasol Lira 1.5 Lt,LIRA,5430.0,5430.0,5430.0,1.5 lt,7790070231420,2,-34.6037,-58.3816
+2025-12-10 21:12:30.502446,PreciosClaros,aceite girasol,Aceite de Girasol Lira 900 Cc,LIRA,3550.0,3550.0,3550.0,900.0 cc,7790070231468,1,-34.6037,-58.3816
+2025-12-10 21:12:30.502453,PreciosClaros,aceite girasol,Aceite de Girasol Natura 1.5 Lt,NATURA,5474.0,5750.0,5474.0,1.5 lt,7790272001029,28,-34.6037,-58.3816
+2025-12-10 21:12:30.502459,PreciosClaros,aceite girasol,Aceite de Girasol Natura 900 Ml,NATURA,3455.0,3650.0,3455.0,900.0 ml,7790272001005,28,-34.6037,-58.3816
+2025-12-10 21:12:30.502466,PreciosClaros,aceite girasol,Aceite de Girasol Pureza 1.5 Lt,PUREZA,5475.0,5478.28,5475.0,1.5 lt,7792180137944,25,-34.6037,-58.3816
+2025-12-10 21:12:30.502473,PreciosClaros,aceite girasol,Aceite de Girasol Pureza 900 Ml,PUREZA,3468.23,3468.23,3468.23,900.0 ml,7792180137937,2,-34.6037,-58.3816
+2025-12-10 21:12:30.502479,PreciosClaros,aceite girasol,Aceite de Girasol Rocio Vegetal en Aerosol Coto 120 Gr,COTO,3600.0,3600.0,3600.0,120.0 gr,12-1-2800001796418,1,-34.6037,-58.3816
+2025-12-10 21:12:30.502485,PreciosClaros,aceite girasol,Aceite Mezcla Girasol y Oliva Blend Natura 1.5 Lt,NATURA,9039.0,9039.0,9039.0,1.5 lt,7790272000053,2,-34.6037,-58.3816
+2025-12-10 21:12:30.502492,PreciosClaros,aceite girasol,Aceite Mezcla Girasol y Oliva Blend Natura 900 Ml,NATURA,5750.0,5850.0,5750.0,900.0 ml,7790272000046,3,-34.6037,-58.3816
+2025-12-10 21:12:30.502506,PreciosClaros,aceite girasol,Aceite Mezcla Girasol y Oliva Cocinero 1.5 Lt,COCINERO,8985.0,8985.0,8985.0,1.5 lt,7790070231604,2,-34.6037,-58.3816
+2025-12-10 21:12:30.502520,PreciosClaros,aceite girasol,Aceite Mezcla Girasol y Oliva Cocinero 900 Cc,COCINERO,5440.0,5440.0,5440.0,900.0 cc,7790070231598,1,-34.6037,-58.3816
+2025-12-10 21:12:30.502526,PreciosClaros,aceite girasol,Aceite Mezcla Girasol y Oliva Copisi 900 Ml,COPISI,4856.0,4856.0,4856.0,900.0 ml,7790272006819,2,-34.6037,-58.3816
+2025-12-10 21:12:30.502549,PreciosClaros,aceite girasol,Aceite Rocio Vegetal Girasol Cañuelas 150 Gr,CAÑUELAS,3913.32,3913.32,3913.32,150.0 gr,7792180131935,2,-34.6037,-58.3816
+2025-12-10 21:12:30.502555,PreciosClaros,aceite girasol,Aceite Rocio Vegetal Girasol en Aerosol Natura 120 Cc,NATURA,3829.0,3829.0,3829.0,126.0 cc,7790272000831,2,-34.6037,-58.3816
+2025-12-10 21:12:33.199869,PreciosClaros,azucar,Azucar Bajas Calorias Chango 500 Gr,CHANGO,2550.0,2550.0,2550.0,500.0 gr,7791100046137,2,-34.6037,-58.3816
+2025-12-10 21:12:33.199884,PreciosClaros,azucar,Azucar Comun Azucel 1 Kg,AZUCEL,1125.0,1191.0,1125.0,1.0 kg,7798174970016,25,-34.6037,-58.3816
+2025-12-10 21:12:33.199891,PreciosClaros,azucar,Azucar Cuisine & Co 1 Kg,CUISINE & CO,1230.0,1230.0,1230.0,1.0 kg,7792052064569,3,-34.6037,-58.3816
+2025-12-10 21:12:33.199898,PreciosClaros,azucar,Azucar Domino,DOMINO,1150.0,1150.0,1150.0,1.0 kg,7799086000389,23,-34.6037,-58.3816
+2025-12-10 21:12:33.199904,PreciosClaros,azucar,Azucar Impalpable,LAPAR,975.0,975.0,975.0,100.0 gr,7798224212516,2,-34.6037,-58.3816
+2025-12-10 21:12:33.199917,PreciosClaros,azucar,Azucar Impalpable,DIA,585.0,585.0,585.0,100.0 gr,8480017305299,23,-34.6037,-58.3816
+2025-12-10 21:12:33.199924,PreciosClaros,azucar,Azucar Impalpable Blanca Pergola 250 Gr,PERGOLA,1300.0,1350.0,1300.0,250.0 gr,7797234000090,2,-34.6037,-58.3816
+2025-12-10 21:12:33.199931,PreciosClaros,azucar,Azucar Impalpable Bolsa Dos Anclas 300 Gr,DOS ANCLAS,2420.0,2550.0,2420.0,300.0 gr,7792900990620,5,-34.6037,-58.3816
+2025-12-10 21:12:33.199939,PreciosClaros,azucar,Azucar Impalpable Chango 250 Gr,CHANGO,1600.0,1650.0,1600.0,250.0 gr,7791100000214,2,-34.6037,-58.3816
+2025-12-10 21:12:33.199946,PreciosClaros,azucar,Azucar La Campechana Paq 1 Kgm,LA CAMPECHANA,1099.0,1099.0,1099.0,1.0 kgm,0659525879112,2,-34.6037,-58.3816
+2025-12-10 21:12:33.199953,PreciosClaros,azucar,Azucar Light Doypack Hileret 250 Gr,HILERET,1545.0,1700.0,1545.0,250.0 gr,7794940000550,27,-34.6037,-58.3816
+2025-12-10 21:12:33.199960,PreciosClaros,azucar,Azucar Light Doypack Hileret 500 Gr,HILERET,2569.0,2900.0,2569.0,500.0 gr,7794940000536,27,-34.6037,-58.3816
+2025-12-10 21:12:33.199967,PreciosClaros,azucar,Azucar Mascabo Frasco Beepure 250 Gr,BEEPURE,4950.0,4950.0,4950.0,250.0 gr,7798165590339,2,-34.6037,-58.3816
+2025-12-10 21:12:33.199974,PreciosClaros,azucar,Azucar Mascabo Grandiet 500 Gr,GRANDIET,3850.0,3950.0,3850.0,500.0 gr,7797330105743,3,-34.6037,-58.3816
+2025-12-10 21:12:33.199981,PreciosClaros,azucar,Azucar Molida Superior Ledesma 1 Kg,LEDESMA,1295.0,1299.0,1295.0,1.0 kg,7792540250450,27,-34.6037,-58.3816
+2025-12-10 21:12:33.200020,PreciosClaros,azucar,Azucar Negra Chango 250 Gr,CHANGO,2500.0,2500.0,2500.0,250.0 gr,7791100000306,2,-34.6037,-58.3816
+2025-12-10 21:12:33.200027,PreciosClaros,azucar,Azucar Organica,DIA,2600.0,2600.0,2600.0,500.0 gr,8480017277718,23,-34.6037,-58.3816
+2025-12-10 21:12:33.200034,PreciosClaros,azucar,Azucar Organica Terrasana 500 Gr,TERRASANA,5600.0,5700.0,5600.0,500.0 gr,7798154950946,3,-34.6037,-58.3816
+2025-12-10 21:12:33.200041,PreciosClaros,azucar,Azucar Plus Dia 1 Kg,DIA,1090.0,1090.0,1090.0,1.0 kg,8480017298515,23,-34.6037,-58.3816
+2025-12-10 21:12:33.200048,PreciosClaros,azucar,Azucar Rubia Organica Frasco Beepure 330 Gr,BEEPURE,5400.0,5400.0,5400.0,330.0 gr,7798165590490,1,-34.6037,-58.3816
+2025-12-10 21:12:33.200055,PreciosClaros,azucar,Azucar Rubio Mascabo Ledesma 800 Gr,LEDESMA,2600.0,2600.0,2600.0,800.0 gr,7792540294607,1,-34.6037,-58.3816
+2025-12-10 21:12:33.200062,PreciosClaros,azucar,Azucar sin Tacc Ledesma Light 500 Gr,LEDESMA,2495.0,2800.0,2495.0,500.0 gr,7792540293754,26,-34.6037,-58.3816
+2025-12-10 21:12:33.200076,PreciosClaros,azucar,Alfajores Blancos con Baño de Azucar Jorgito 6 Un 300 Gr,JORGITO,6429.99,6429.99,6429.99,300.0 gr,7790957000019,1,-34.6037,-58.3816
+2025-12-10 21:12:33.200083,PreciosClaros,azucar,Alfajores de Fruta con Baño de Azucar Jorgito 6 Un 300 Gr,JORGITO,7450.0,7600.0,7450.0,300.0 gr,7790957000125,2,-34.6037,-58.3816
+2025-12-10 21:12:33.200126,PreciosClaros,azucar,Azucar,CUQUE,690.0,690.0,690.0,500.0 gr,8480017284402,23,-34.6037,-58.3816
+2025-12-10 21:12:35.779318,PreciosClaros,harina 0000,Harina 0000 C/Vit,FAVOR,1430.0,1500.0,1430.0,1.0 kg,7790070562265,25,-34.6037,-58.3816
+2025-12-10 21:12:35.779409,PreciosClaros,harina 0000,Harina Forti 0000,BLANC,1565.0,1650.0,1565.0,1.0 kg,7790070562210,3,-34.6037,-58.3816
+2025-12-10 21:12:35.779425,PreciosClaros,harina 0000,Harina de Trigo 0000 Caserita 1 Kg,CASERITA,1300.0,1300.0,1300.0,1.0 kg,7792590000227,25,-34.6037,-58.3816
+2025-12-10 21:12:35.779433,PreciosClaros,harina 0000,Harina de Trigo 0000 Chacabuco 1 Kg,CHACABUCO,1149.0,1149.0,1149.0,1.0 kg,7799037060028,1,-34.6037,-58.3816
+2025-12-10 21:12:35.779440,PreciosClaros,harina 0000,Harina de Trigo 0000 Dia 1 Kg,DÍA,1100.0,1100.0,1100.0,1.0 kg,8480017242730,23,-34.6037,-58.3816
+2025-12-10 21:12:35.779455,PreciosClaros,harina 0000,Harina de Trigo 0000 Morixe 1 Kg,MORIXE,1149.0,1350.0,1149.0,1.0 kg,7790199000020,27,-34.6037,-58.3816
+2025-12-10 21:12:35.779461,PreciosClaros,harina 0000,Harina de Trigo 0000 Ultra Refinada Pureza 1 Kg,PUREZA,1199.0,1500.0,1199.0,1.0 kg,7792180004871,26,-34.6037,-58.3816
+2025-12-10 21:12:38.468672,PreciosClaros,harina 000,Harina 000 C/Vit,FAVOR,815.0,1050.0,815.0,1.0 kg,7790070562258,27,-34.6037,-58.3816
+2025-12-10 21:12:38.468688,PreciosClaros,harina 000,Harina 000 Fortificada con Calcio Cañuelas 1 Kg,CAÑUELAS,1025.0,1100.0,1025.0,1.0 kg,7792180139320,27,-34.6037,-58.3816
+2025-12-10 21:12:38.468695,PreciosClaros,harina 000,Harina 000 Organica Harinisima Molino Campodonico 1 Kg,MOLINO CAMPODÓNICO,2500.0,2500.0,2500.0,1.0 kg,7791401000203,1,-34.6037,-58.3816
+2025-12-10 21:12:38.468701,PreciosClaros,harina 000,Harina 0000 C/Vit,FAVOR,1430.0,1500.0,1430.0,1.0 kg,7790070562265,25,-34.6037,-58.3816
+2025-12-10 21:12:38.468708,PreciosClaros,harina 000,Harina Blancaflor 000 Pqx1kg,Sin marca,1080.0,1150.0,1080.0,None none,7790070562203,2,-34.6037,-58.3816
+2025-12-10 21:12:38.468714,PreciosClaros,harina 000,Harina de Trigo 000 Caserita 1 Kg,CASERITA,900.0,1100.0,900.0,1.0 kg,7792590000159,25,-34.6037,-58.3816
+2025-12-10 21:12:38.468720,PreciosClaros,harina 000,Harina de Trigo 000 Chacabuco 1 Kg,CHACABUCO,895.0,895.0,895.0,1.0 kg,7799037060011,23,-34.6037,-58.3816
+2025-12-10 21:12:38.468726,PreciosClaros,harina 000,Harina de Trigo 000 Dia 1 Kg,DÍA,815.0,815.0,815.0,1.0 kg,8480017242723,23,-34.6037,-58.3816
+2025-12-10 21:12:38.468754,PreciosClaros,harina 000,Harina de Trigo 000 Morixe 1 Kg,MORIXE,948.0,1000.0,948.0,1.0 kg,7790199000013,4,-34.6037,-58.3816
+2025-12-10 21:12:38.468760,PreciosClaros,harina 000,Harina de Trigo 000 Pureza 1 Kg,PUREZA,1115.0,1115.0,1115.0,1.0 kg,7792180004512,23,-34.6037,-58.3816
+2025-12-10 21:12:38.468766,PreciosClaros,harina 000,Harina de Trigo Fortivac 000 Morixe 1 Kg,MORIX,945.0,945.0,945.0,1.0 kg,7790199604075,23,-34.6037,-58.3816
+2025-12-10 21:12:38.468772,PreciosClaros,harina 000,Harina de Trigo 0000 Caserita 1 Kg,CASERITA,1300.0,1300.0,1300.0,1.0 kg,7792590000227,25,-34.6037,-58.3816
+2025-12-10 21:12:38.468779,PreciosClaros,harina 000,Harina de Trigo 0000 Chacabuco 1 Kg,CHACABUCO,1149.0,1149.0,1149.0,1.0 kg,7799037060028,1,-34.6037,-58.3816
+2025-12-10 21:12:38.468784,PreciosClaros,harina 000,Harina de Trigo 0000 Dia 1 Kg,DÍA,1100.0,1100.0,1100.0,1.0 kg,8480017242730,23,-34.6037,-58.3816
+2025-12-10 21:12:38.468791,PreciosClaros,harina 000,Harina de Trigo 0000 Morixe 1 Kg,MORIXE,1149.0,1350.0,1149.0,1.0 kg,7790199000020,27,-34.6037,-58.3816
+2025-12-10 21:12:38.468797,PreciosClaros,harina 000,Harina de Trigo 0000 Ultra Refinada Pureza 1 Kg,PUREZA,1199.0,1500.0,1199.0,1.0 kg,7792180004871,26,-34.6037,-58.3816
+2025-12-10 21:12:38.468803,PreciosClaros,harina 000,Harina Forti 0000,BLANC,1565.0,1650.0,1565.0,1.0 kg,7790070562210,3,-34.6037,-58.3816
+2025-12-10 21:12:43.347067,PreciosClaros,sal gruesa,Sal Gruesa Doña Sal 1 Kg,DOÑA SAL,1119.0,1119.0,1119.0,1.0 kg,7792104000187,2,-34.6037,-58.3816
+2025-12-10 21:12:43.347081,PreciosClaros,sal gruesa,Sal Gruesa Dia 1 Kg,DÍA,1595.0,1595.0,1595.0,1.0 kg,8480017555397,23,-34.6037,-58.3816
+2025-12-10 21:12:43.347088,PreciosClaros,sal gruesa,Sal Gruesa Dos Anclas Paquete X1kg,DOS ANCLAS,2374.0,2500.0,2374.0,None none,7792900613017,5,-34.6037,-58.3816
+2025-12-10 21:12:43.347095,PreciosClaros,sal gruesa,Sal Gruesa en Estuche Celusal 1 Kg,CELUSAL,2502.0,2600.0,2502.0,1.0 kg,7791004000082,4,-34.6037,-58.3816
+2025-12-10 21:12:43.347101,PreciosClaros,sal gruesa,Sal Gruesa en Estuche Dos Anclas 500 Gr,DOS ANCLAS,1302.0,1400.0,1302.0,500.0 gr,7792900092676,5,-34.6037,-58.3816
+2025-12-10 21:12:43.347107,PreciosClaros,sal gruesa,Sal Gruesa en Paquete Celusal 1 Kg,CELUSAL,2245.0,2445.0,2245.0,1.0 kg,7791004000099,28,-34.6037,-58.3816
+2025-12-10 21:12:43.347113,PreciosClaros,sal gruesa,Sal Gruesa en Paquete Celusal 500 Gr,CELUSAL,1405.0,1450.0,1405.0,500.0 gr,7791004000822,27,-34.6037,-58.3816
+2025-12-10 21:12:43.347120,PreciosClaros,sal gruesa,Sal Gruesa Salero Dos Anclas 500 Gr,DOS ANCLAS,2847.0,2847.0,2847.0,500.0 gr,7792900614021,2,-34.6037,-58.3816
+2025-12-10 21:12:43.347125,PreciosClaros,sal gruesa,Sal Dos Anclas Gruesa Pqx500gr,Sin marca,1374.0,1374.0,1374.0,None none,7792900613079,1,-34.6037,-58.3816
+2025-12-10 21:12:46.152374,PreciosClaros,yerba mate,Yerba Mate Amanda 1 Kg,AMANDA,4300.0,5700.0,4300.0,1.0 kg,7792710000175,27,-34.6037,-58.3816
+2025-12-10 21:12:46.152389,PreciosClaros,yerba mate,Yerba Mate Bajo Polvo 4 Flex Mañanita 500 Gr,MAÑANITA,2219.0,2800.0,2219.0,500.0 gr,7790387015324,25,-34.6037,-58.3816
+2025-12-10 21:12:46.152404,PreciosClaros,yerba mate,Yerba Mate Barbacua La Merced 500 Gr,LA MERCED,4500.0,4500.0,4500.0,500.0 gr,7790387015621,2,-34.6037,-58.3816
+2025-12-10 21:12:46.152410,PreciosClaros,yerba mate,Yerba Mate Burrito La Cumbresita 500 Gr,LA CUMBRECITA,1755.0,1755.0,1755.0,500.0 gr,7790217000599,2,-34.6037,-58.3816
+2025-12-10 21:12:46.152417,PreciosClaros,yerba mate,Yerba Mate Cachamai 500 Gr,CACHAMAI,2037.0,2037.0,2037.0,500.0 gr,7792280005686,2,-34.6037,-58.3816
+2025-12-10 21:12:46.152424,PreciosClaros,yerba mate,Yerba Mate Campo Origen Controlado La Merced 500 Gr,LA MERCED,4425.0,4500.0,4425.0,500.0 gr,7790387015607,26,-34.6037,-58.3816
+2025-12-10 21:12:46.152430,PreciosClaros,yerba mate,Yerba Mate Campo Sur La Merced 500 Gr,LA MERCED,4500.0,4500.0,4500.0,500.0 gr,7790387015645,3,-34.6037,-58.3816
+2025-12-10 21:12:46.152437,PreciosClaros,yerba mate,Yerba Mate Canarias 500 Gr,CANARIAS,6950.0,6950.0,6950.0,500.0 gr,7730241003661,23,-34.6037,-58.3816
+2025-12-10 21:12:46.152443,PreciosClaros,yerba mate,Yerba Mate Compuesta con Cedro Verdeflor 500 Gr,VERDEFLOR,2400.0,2400.0,2400.0,500.0 gr,7793670400517,1,-34.6037,-58.3816
+2025-12-10 21:12:46.152449,PreciosClaros,yerba mate,Yerba Mate Compuesta con Hierbas Serranas Verdeflor 500 Gr,VERDEFLOR,2400.0,2400.0,2400.0,500.0 gr,7793670000052,2,-34.6037,-58.3816
+2025-12-10 21:12:46.152455,PreciosClaros,yerba mate,Yerba Mate Compuesta Frutos Rojos Adelgamate 500 Gr,ADELGAMATE,2600.0,2600.0,2600.0,500.0 gr,7798028020539,2,-34.6037,-58.3816
+2025-12-10 21:12:46.152461,PreciosClaros,yerba mate,Yerba Mate con Hierbas Aromaticas Cachamate1 Kg,CACHAMATE,3770.0,3770.0,3770.0,1.0 kg,7792280005716,2,-34.6037,-58.3816
+2025-12-10 21:12:46.152473,PreciosClaros,yerba mate,Yerba Mate con Hierbas Compuesta Cachamate 1 Kg,CACHAMATE,3675.0,3675.0,3675.0,1.0 kg,7792280005709,2,-34.6037,-58.3816
+2025-12-10 21:12:46.152479,PreciosClaros,yerba mate,Yerba Mate con Hierbas Cuisine & Co 1 Kg,CUISINE & CO ,4180.0,4180.0,4180.0,1.0 kg,7792052074766,1,-34.6037,-58.3816
+2025-12-10 21:12:46.152491,PreciosClaros,yerba mate,Yerba Mate con Hierbas Cuisine & Co 500 Gr,CUISINE & CO ,2340.0,2340.0,2340.0,500.0 gr,7792052074797,2,-34.6037,-58.3816
+2025-12-10 21:12:46.152496,PreciosClaros,yerba mate,Yerba Mate con Hierbas Cuyanas Cachamate 500 Gr,CACHAMATE,2037.0,2300.0,2037.0,500.0 gr,7792280000612,2,-34.6037,-58.3816
+2025-12-10 21:12:46.152502,PreciosClaros,yerba mate,Yerba Mate con Hierbas del Litoral Cachamate 500 Gr,CACHAMATE,2046.0,2250.0,2046.0,500.0 gr,7792280000605,2,-34.6037,-58.3816
+2025-12-10 21:12:46.152509,PreciosClaros,yerba mate,Yerba Mate con Hierbas Serranas Salus 500 Gr,SALUS,2750.0,2750.0,2750.0,500.0 gr,7790070508546,1,-34.6037,-58.3816
+2025-12-10 21:12:46.152515,PreciosClaros,yerba mate,Yerba Mate con Limon y Menta Salus 500 Gr,SALUS,2750.0,2750.0,2750.0,500.0 gr,7790070508553,1,-34.6037,-58.3816
+2025-12-10 21:12:46.152521,PreciosClaros,yerba mate,Yerba Mate con Manzanilla sin TACC Cruz De Malta 500 Gr,CRUZ DE MALTA,2500.0,2500.0,2500.0,500.0 gr,7790070509079,2,-34.6037,-58.3816
+2025-12-10 21:12:46.152527,PreciosClaros,yerba mate,Yerba Mate con Menta y Boldo Kurui 500 Gr,KURUPI,4569.0,4569.0,4569.0,500.0 gr,7840127000124,2,-34.6037,-58.3816
+2025-12-10 21:12:46.152533,PreciosClaros,yerba mate,Yerba Mate con Naranja Cbse 500 Gr,CBSÉ,2290.0,2650.0,2290.0,500.0 gr,7790710334580,26,-34.6037,-58.3816
+2025-12-10 21:12:46.152545,PreciosClaros,yerba mate,Yerba Mate con Palo 4Flex Suave Union 500 Gr,SUAVE UNION,2710.0,2800.0,2710.0,500.0 gr,7790387014624,25,-34.6037,-58.3816
+2025-12-10 21:12:46.152552,PreciosClaros,yerba mate,Yerba Mate con Palo 4Flex Taragui 1 Kg,TARAGUI,4923.0,5100.0,4923.0,1.0 kg,7790387013610,27,-34.6037,-58.3816
+2025-12-10 21:12:46.152558,PreciosClaros,yerba mate,Yerba Mate con Palo 4Flex Taragui 500 Gr,TARAGUI,2710.0,2800.0,2710.0,500.0 gr,7790387013627,25,-34.6037,-58.3816
+2025-12-10 21:12:46.152564,PreciosClaros,yerba mate,Yerba Mate con Palo 55 Aniversario Rosamonte 1 Kg,ROSAMONTE,3585.0,5550.0,3585.0,1.0 kg,7790411001941,27,-34.6037,-58.3816
+2025-12-10 21:12:46.152569,PreciosClaros,yerba mate,Yerba Mate con Palo 55 Aniversario Rosamonte 500 Gr,ROSAMONTE,2050.0,2950.0,2050.0,500.0 gr,7790411001958,27,-34.6037,-58.3816
+2025-12-10 21:12:46.152576,PreciosClaros,yerba mate,Yerba Mate con Palo Boldo y Menta Cruz De Malta 500 Gr,CRUZ DE MALTA,2400.0,2500.0,2400.0,500.0 gr,7790070509062,3,-34.6037,-58.3816
+2025-12-10 21:12:46.152583,PreciosClaros,yerba mate,Bebida Isotonica Kombucha Yerba Mate Aloja 354 Ml,ALOJA,6599.0,6599.0,6599.0,354.0 ml,7798372790010,2,-34.6037,-58.3816
+2025-12-10 21:12:46.152588,PreciosClaros,yerba mate,Yerba Hierbas Serranas Cachamate 500 Gr,CACHAMAI,2250.0,2250.0,2250.0,500.0 gr,7792280005730,2,-34.6037,-58.3816
+2025-12-10 21:12:48.663478,PreciosClaros,cafe molido,Cafe Molido Estilo Italiano Cafe Matinez 250 Gr,CAFÉ MARTÍNEZ,20299.0,20299.0,20299.0,250.0 gr,7798090321398,2,-34.6037,-58.3816
+2025-12-10 21:12:48.663493,PreciosClaros,cafe molido,Cafe Molido Tostado Moka Frutado Cafe Martinez 330 Gr,CAFÉ MARTÍNEZ,20799.0,20799.0,20799.0,330.0 gr,7798090321381,2,-34.6037,-58.3816
+2025-12-10 21:12:48.663507,PreciosClaros,cafe molido,Cafe Molido Clasico Bolsa La Morenita 250 Gr,MORENITA,5952.0,6450.0,5952.0,250.0 gr,7790170901971,4,-34.6037,-58.3816
+2025-12-10 21:12:48.663514,PreciosClaros,cafe molido,Cafe Molido Clasico Bolsa La Virginia 250 Gr,LA VIRGINIA,5849.0,6550.0,5849.0,250.0 gr,7790150006320,27,-34.6037,-58.3816
+2025-12-10 21:12:48.663520,PreciosClaros,cafe molido,Cafe Molido Clasico La Virginia 500 Gr,LA VIRGINIA,12092.0,13350.0,12092.0,500.0 gr,7790150006351,4,-34.6037,-58.3816
+2025-12-10 21:12:48.663526,PreciosClaros,cafe molido,Cafe Molido Coto 250 Gr,COTO,5750.0,5750.0,5750.0,250.0 gr,12-1-2800001259609,2,-34.6037,-58.3816
+2025-12-10 21:12:48.663532,PreciosClaros,cafe molido,Cafe Molido Coto 500 Gr,COTO,10760.0,10760.0,10760.0,500.0 gr,12-1-2800001259616,2,-34.6037,-58.3816
+2025-12-10 21:12:48.663538,PreciosClaros,cafe molido,Cafe Molido Houseblend Starbucks 250 Gr,STARBUCKS,21992.0,22700.0,21992.0,250.0 gr,0762111364364,4,-34.6037,-58.3816
+2025-12-10 21:12:48.663544,PreciosClaros,cafe molido,Cafe Molido Intenso La Morenita 125 Gr,LA MORENITA,23813.0,23813.0,23813.0,125.0 gr,7790170902022,2,-34.6037,-58.3816
+2025-12-10 21:12:48.663550,PreciosClaros,cafe molido,Cafe Molido Intenso La Morenita 250 Gr,LA MORENITA,3065.0,3500.0,3065.0,250.0 gr,7790170901957,27,-34.6037,-58.3816
+2025-12-10 21:12:48.663556,PreciosClaros,cafe molido,Cafe Molido Intenso La Morenita 500 Gr,LA MORENITA,11890.0,12900.0,11890.0,500.0 gr,7790170902008,27,-34.6037,-58.3816
+2025-12-10 21:12:48.663562,PreciosClaros,cafe molido,Cafe Molido Torrado Clasico La Virginia 125 Gr,LA VIRGINIA,3375.0,3700.0,3375.0,125.0 gr,7790150006306,26,-34.6037,-58.3816
+2025-12-10 21:12:48.663575,PreciosClaros,cafe molido,Cafe Molido Torrado Dia 250 Gr,DÍA,5850.0,5850.0,5850.0,250.0 gr,8480017241153,23,-34.6037,-58.3816
+2025-12-10 21:12:48.663583,PreciosClaros,cafe molido,Cafe Molido Torrado Dia 500 Gr,DÍA,9900.0,9900.0,9900.0,500.0 gr,8480017241160,23,-34.6037,-58.3816
+2025-12-10 21:12:48.663589,PreciosClaros,cafe molido,Cafe Molido Torrado en Bolsa Cabrales 1 Kg,CABRALES,28350.0,28350.0,28350.0,1.0 kg,7790550000171,2,-34.6037,-58.3816
+2025-12-10 21:12:48.663595,PreciosClaros,cafe molido,Cafe Molido Torrado en Bolsa Cabrales 250 Gr,CABRALES,7125.0,7450.0,7125.0,250.0 gr,7790550000157,27,-34.6037,-58.3816
+2025-12-10 21:12:48.663601,PreciosClaros,cafe molido,Cafe Molido Torrado en Bolsa Cabrales 500 Gr,CABRALES,13325.0,14550.0,13325.0,500.0 gr,7790550000164,27,-34.6037,-58.3816
+2025-12-10 21:12:48.663607,PreciosClaros,cafe molido,Cafe Molido Torrado Intenso Bonafide 500 Gr,BONAFIDE,12715.0,13100.0,12715.0,500.0 gr,7792360002062,25,-34.6037,-58.3816
+2025-12-10 21:12:48.663614,PreciosClaros,cafe molido,Cafe Molido Torrado Intenso Bonafide Sensaciones 125 Gr,BONAFIDE,3420.0,3420.0,3420.0,125.0 gr,7792360002154,23,-34.6037,-58.3816
+2025-12-10 21:12:48.663619,PreciosClaros,cafe molido,Cafe Molido Torrado Suave Bonafide Sensaciones 125 Gr,BONAFIDE,3420.0,3420.0,3420.0,125.0 gr,7792360002147,23,-34.6037,-58.3816
+2025-12-10 21:12:48.663626,PreciosClaros,cafe molido,Cafe Molido Torrado Suave Bonafide Sensaciones 500 Gr,BONAFIDE,12715.0,13100.0,12715.0,500.0 gr,7792360002130,25,-34.6037,-58.3816
+2025-12-10 21:12:48.663638,PreciosClaros,cafe molido,Cafe Molido Tostado Colombia Morenita 500 Gr,MORENITA,22892.0,25950.0,22892.0,500.0 gr,7790170949072,4,-34.6037,-58.3816
+2025-12-10 21:12:48.663649,PreciosClaros,cafe molido,Cafe Molido Tostado Espresso La Virginia 500 Gr,LA VIRGINIA,20730.0,23500.0,20730.0,500.0 gr,7790150037072,4,-34.6037,-58.3816
+2025-12-10 21:12:48.663655,PreciosClaros,cafe molido,Cafe Molido Tostado Happy Day Cabrales 250 Gr,CABRALES,7900.0,7900.0,7900.0,250.0 gr,7790550022319,26,-34.6037,-58.3816
+2025-12-10 21:12:48.663662,PreciosClaros,cafe molido,Cafe Molido Tostado Peru Cabrales 250 Gr,CABRALES,24659.0,24659.0,24659.0,250.0 gr,7790550022456,1,-34.6037,-58.3816
+2025-12-10 21:12:48.663668,PreciosClaros,cafe molido,Cafe Molido Tostado Prestige Cabrales 250 Gr,CABRALES,18219.0,19650.0,18219.0,250.0 gr,7790550022272,5,-34.6037,-58.3816
+2025-12-10 21:12:48.663674,PreciosClaros,cafe molido,Cafe Molido Tostado Super Cabrales 125 Gr,CABRALES,8075.0,8500.0,8075.0,125.0 gr,7790550022210,26,-34.6037,-58.3816
+2025-12-10 21:12:48.663680,PreciosClaros,cafe molido,Cafe Molido Tostado Super Cabrales 250 Gr,CABRALES,12990.0,14850.0,12990.0,250.0 gr,7790550022234,28,-34.6037,-58.3816
+2025-12-10 21:12:48.663686,PreciosClaros,cafe molido,Cafe Molido Tostado Super Cabrales 500 Gr,CABRALES,27375.0,29700.0,27375.0,500.0 gr,7790550022258,5,-34.6037,-58.3816
+2025-12-10 21:12:48.663692,PreciosClaros,cafe molido,Cafe L.Virg.X250g.Molido                ,,7490.0,7490.0,7490.0,250.0 gr,7790150007501,23,-34.6037,-58.3816
+2025-12-10 21:12:51.561494,PreciosClaros,te saquitos,Infusion de Chocolate a la Menta en Saquitos Saint Gottard 20 Un,SAINT GOTTARD,6006.0,6006.0,6006.0,20.0 un,7798008296060,2,-34.6037,-58.3816
+2025-12-10 21:12:51.561510,PreciosClaros,te saquitos,Mate Cocido en Saquitos Ciudad Del Lago 25 Un,CIUDAD DEL LAGO,945.0,945.0,945.0,25.0 un,12-1-2800001276231,2,-34.6037,-58.3816
+2025-12-10 21:12:51.561525,PreciosClaros,te saquitos,Mate Cocido en Saquitos Ciudad Del Lago 50 Un,CIUDAD DEL LAGO,1779.0,1779.0,1779.0,50.0 un,12-1-2800001276248,2,-34.6037,-58.3816
+2025-12-10 21:12:51.561533,PreciosClaros,te saquitos,Mate Cocido en Saquitos Crysf 50 Un,CRYSF,1590.0,1590.0,1590.0,50.0 un,7790320400033,23,-34.6037,-58.3816
+2025-12-10 21:12:51.561540,PreciosClaros,te saquitos,Mate Cocido en Saquitos Dia 25 Un,DÍA,785.0,785.0,785.0,25.0 un,8480017268150,23,-34.6037,-58.3816
+2025-12-10 21:12:51.561547,PreciosClaros,te saquitos,Mate Cocido en Saquitos Dia 50 Un,DÍA,1390.0,1390.0,1390.0,50.0 un,8480017300010,23,-34.6037,-58.3816
+2025-12-10 21:12:51.561553,PreciosClaros,te saquitos,Mate Cocido en Saquitos Nobleza Gaucha 25 Un,NOBLEZA GAUCHA,1250.0,1250.0,1250.0,25.0 un,7790070508805,2,-34.6037,-58.3816
+2025-12-10 21:12:51.561560,PreciosClaros,te saquitos,Mate Cocido en Saquitos Nobleza Gaucha 50 Un,NOBLEZA GAUCHA,2350.0,2350.0,2350.0,50.0 un,7790070508812,2,-34.6037,-58.3816
+2025-12-10 21:12:51.561567,PreciosClaros,te saquitos,Mate Cocido en Saquitos Playadito 25 Un,PLAYADITO,1099.0,1150.0,1099.0,25.0 un,7793704000744,26,-34.6037,-58.3816
+2025-12-10 21:12:51.561574,PreciosClaros,te saquitos,Mate Cocido en Saquitos Playadito 50 Un,PLAYADITO,2190.0,2190.0,2190.0,50.0 un,7793704000768,23,-34.6037,-58.3816
+2025-12-10 21:12:51.561580,PreciosClaros,te saquitos,Mate Cocido en Saquitos Taragui 40 Un 120 Gr,TARAGÜÍ,3150.0,3150.0,3150.0,40.0 un,7790387010046,1,-34.6037,-58.3816
+2025-12-10 21:12:51.561587,PreciosClaros,te saquitos,Mate Cocido en Saquitos Union 40 Un 120 Gr,UNIÓN,3150.0,3150.0,3150.0,40.0 un,7790387010152,1,-34.6037,-58.3816
+2025-12-10 21:12:51.561601,PreciosClaros,te saquitos,Mate Cocido en Saquitos Union 50 Un,UNIÓN,2441.0,2441.0,2441.0,50.0 un,7790387800098,3,-34.6037,-58.3816
+2025-12-10 21:12:51.561607,PreciosClaros,te saquitos,Mate Cocido Vitamina A y Zinc Saquitos Ensobrados Taragui 60 Gr 20 Un,TARAGÜÍ,2400.0,2400.0,2400.0,20.0 un,7790387011852,2,-34.6037,-58.3816
+2025-12-10 21:12:51.561614,PreciosClaros,te saquitos,Te Amarillo en Saquitos Ensobrados Cachamai 20 Un,CACHAMAI,1227.0,1500.0,1227.0,20.0 un,7792280000339,3,-34.6037,-58.3816
+2025-12-10 21:12:51.561621,PreciosClaros,te saquitos,Te Amarillo en Saquitos Mezcla de Hierbas Digestivas Cachamai 50 Un,CACHAMAI,3068.0,3068.0,3068.0,50.0 un,7792280000384,2,-34.6037,-58.3816
+2025-12-10 21:12:51.561627,PreciosClaros,te saquitos,Te Boldo en Saquitos Dia 25 Un,DÍA,1285.0,1285.0,1285.0,25.0 un,8480017251404,23,-34.6037,-58.3816
+2025-12-10 21:12:51.561634,PreciosClaros,te saquitos,Te Boldo en Saquitos Ensobrados Cachamai 20 Un,CACHAMAI,1838.0,1950.0,1838.0,20.0 un,7792280000353,3,-34.6037,-58.3816
+2025-12-10 21:12:51.561641,PreciosClaros,te saquitos,Te Boldo en Saquitos Saint Gottard 20 Un,SAINT GOTTARD,2686.0,2686.0,2686.0,20.0 un,7798008294646,1,-34.6037,-58.3816
+2025-12-10 21:12:51.561647,PreciosClaros,te saquitos,Te Clasico en Saquitos La Virginia 100 Un,LA VIRGINIA,3330.0,3500.0,3330.0,100.0 un,7790150211953,4,-34.6037,-58.3816
+2025-12-10 21:12:51.561696,PreciosClaros,te saquitos,Te Clasico en Saquitos Morenita 100 Un,MORENITA,3319.0,3319.0,3319.0,100.0 un,7790170914056,2,-34.6037,-58.3816
+2025-12-10 21:12:51.561703,PreciosClaros,te saquitos,Te Clasico en Saquitos Virgin Islands 50 Un,VIRGIN ISLANDS,3750.0,3800.0,3750.0,50.0 un,7790150231258,4,-34.6037,-58.3816
+2025-12-10 21:12:51.561715,PreciosClaros,te saquitos,Te con Canela en Saquitos La Virginia 20 Un,LA VIRGINIA,1962.0,1962.0,1962.0,20.0 un,7790150250150,2,-34.6037,-58.3816
+2025-12-10 21:12:51.561723,PreciosClaros,te saquitos,Te con Frutos Tropicales Saquitos Ensobrados Amazonia Inti Zen 30 Gr,INTI ZEN,5800.0,5800.0,5800.0,30.0 gr,7798104307943,1,-34.6037,-58.3816
+2025-12-10 21:12:51.561728,PreciosClaros,te saquitos,Te con Limon en Saquitos Ensobrados La Virginia 20 Un,LA VIRGINIA,1960.0,2200.0,1960.0,20.0 un,7790150240175,28,-34.6037,-58.3816
+2025-12-10 21:12:51.561736,PreciosClaros,te saquitos,Te de Boldo en Saquitos La Virgina 25 Un,LA VIRGINIA,1883.0,2050.0,1883.0,25.0 un,7790150310267,4,-34.6037,-58.3816
+2025-12-10 21:12:51.561742,PreciosClaros,te saquitos,Te de Manzanilla en Saquitos sin TACC Dia 25 Un,DÍA,800.0,800.0,800.0,25.0 un,8480017252401,23,-34.6037,-58.3816
+2025-12-10 21:12:51.561749,PreciosClaros,te saquitos,Te de Manzanilla Saquitos Ensobrado Green Hills 20 Un,GREEN HILLS,2050.0,2100.0,2050.0,20.0 un,7790480089697,3,-34.6037,-58.3816
+2025-12-10 21:12:51.561756,PreciosClaros,te saquitos,Te de Tilo en Saquitos Ensobrados Green Hills 20 Un,GREEN HILLS,3550.0,3550.0,3550.0,20.0 un,7790480089925,1,-34.6037,-58.3816
+2025-12-10 21:12:51.561762,PreciosClaros,te saquitos,Te de Tilo en Saquitos Morenita 20 Un,MORENITA,2078.0,2078.0,2078.0,20.0 un,7790170923645,2,-34.6037,-58.3816
+2025-12-10 21:12:54.500852,PreciosClaros,te hebras,Te en Hebras Blen Especial Taragui 180 Gr,TARAGÜÍ,2950.0,2950.0,2950.0,180.0 gr,7790387010213,1,-34.6037,-58.3816
+2025-12-10 21:12:54.500868,PreciosClaros,te hebras,Te Negro en Hebras Organico Inti Zen 80 Gr,INTI ZEN,5050.0,5150.0,5050.0,80.0 gr,7798104308490,3,-34.6037,-58.3816
+2025-12-10 21:13:00.505859,PreciosClaros,tomate triturado,Tomate Triturado Cialpil 970 Gr,CIALPIL,2312.0,2312.0,2312.0,970.0 gr,7798050150495,2,-34.6037,-58.3816
+2025-12-10 21:13:00.505874,PreciosClaros,tomate triturado,Tomate Triturado Don Francisco Noel 960 Ml,NOEL,2600.0,2600.0,2600.0,960.0 gr,7798079670059,23,-34.6037,-58.3816
+2025-12-10 21:13:00.505882,PreciosClaros,tomate triturado,Tomate Triturado sin TACC Botella Corper 910 Gr,CORPER,2418.0,2418.0,2418.0,910.0 gr,7791876048571,2,-34.6037,-58.3816
+2025-12-10 21:13:00.505890,PreciosClaros,tomate triturado,Tomate Triturado Tetra Vigente 500 Gr,VIGENTE,1550.0,1550.0,1550.0,500.0 gr,7790123001383,23,-34.6037,-58.3816
+2025-12-10 21:13:03.256929,PreciosClaros,atun,Atun Ahumado,LA CAMPAGNOLA,4661.0,4661.0,4661.0,170.0 gr,7790580143718,1,-34.6037,-58.3816
+2025-12-10 21:13:03.256944,PreciosClaros,atun,Atun al Natural Desmenuzado Dia 170 Gr,DÍA,1190.0,1190.0,1190.0,170.0 gr,8480017598943,23,-34.6037,-58.3816
+2025-12-10 21:13:03.256951,PreciosClaros,atun,Atun al Natural Desmuzasdo La Campagnola 170 Gr,LA CAMPAGNOLA,2827.0,2827.0,2827.0,170.0 gr,7793360129957,2,-34.6037,-58.3816
+2025-12-10 21:13:03.256958,PreciosClaros,atun,Atun al Natural Lata Gomez Da Costa 120 Gr,GOMES DA COSTA,4294.0,4294.0,4294.0,120.0 gr,7891167831179,1,-34.6037,-58.3816
+2025-12-10 21:13:03.256965,PreciosClaros,atun,Atun al Natural Libre de Gluten sin TACC La Campagnola 170 Gr,LA CAMPAGNOLA,5065.0,5535.0,5065.0,170.0 gr,7790580131364,26,-34.6037,-58.3816
+2025-12-10 21:13:03.256971,PreciosClaros,atun,Atun Claro Aceite Yellowfin Coto 185 Gr,COTO,3562.0,3562.0,3562.0,185.0 gr,12-1-2800002306678,2,-34.6037,-58.3816
+2025-12-10 21:13:03.257001,PreciosClaros,atun,Atun Claro Agua Yellowfin Coto 185 Gr,COTO,3562.0,3562.0,3562.0,185.0 gr,12-1-2800002306661,2,-34.6037,-58.3816
+2025-12-10 21:13:03.257008,PreciosClaros,atun,Atun Claro en Aceite Coto 185 Gr,COTO,5513.0,5513.0,5513.0,185.0 gr,12-1-2800002144775,2,-34.6037,-58.3816
+2025-12-10 21:13:03.257014,PreciosClaros,atun,Atun Claro en Aceite Oliva Coto 185 Gr,COTO,6065.85,6065.85,6065.85,185.0 gr,12-1-2800002144768,2,-34.6037,-58.3816
+2025-12-10 21:13:03.257020,PreciosClaros,atun,Atun Desmenuzado al Aceite La Campagnola 170 Gr,LA CAMPAGNOLA,3080.0,3080.0,3080.0,170.0 gr,7793360129940,2,-34.6037,-58.3816
+2025-12-10 21:13:03.257027,PreciosClaros,atun,Atun Desmenuzado al Natural Ciudad Del Lago 170 Gr,CIUDAD DEL LAGO,1464.75,1464.75,1464.75,170.0 gr,12-1-2800000707019,2,-34.6037,-58.3816
+2025-12-10 21:13:03.257033,PreciosClaros,atun,Atun Desmenuzado en Aceite Ciudad Del Lago 170 Gr,CIUDAD DEL LAGO,1464.75,1464.75,1464.75,170.0 gr,12-1-2800000707026,2,-34.6037,-58.3816
+2025-12-10 21:13:03.257039,PreciosClaros,atun,Atun Desmenuzado en Aceite Dia 170 Gr,DÍA,1190.0,1190.0,1190.0,170.0 gr,8480017558176,23,-34.6037,-58.3816
+2025-12-10 21:13:03.257045,PreciosClaros,atun,Atun en Aceite Libre de Gluten sin TACC La Campagnola 170 Gr,LA CAMPAGNOLA,5065.0,5535.0,5065.0,170.0 gr,7790580131357,28,-34.6037,-58.3816
+2025-12-10 21:13:03.257051,PreciosClaros,atun,Atun en Aceite Vegetal Dia 240 Gr,DÍA,5550.0,5550.0,5550.0,240.0 gr,8480017479433,23,-34.6037,-58.3816
+2025-12-10 21:13:03.257058,PreciosClaros,atun,Atun en Lomitos al Natural Dia 170 Gr,DÍA,2750.0,2750.0,2750.0,170.0 gr,8480017558121,23,-34.6037,-58.3816
+2025-12-10 21:13:03.257071,PreciosClaros,atun,Atun en Lomitos al Natural Dia 240 Gr,DÍA,5550.0,5550.0,5550.0,240.0 gr,8480017770134,23,-34.6037,-58.3816
+2025-12-10 21:13:03.257077,PreciosClaros,atun,Atun en Lomitos al Natural Dia 354 Gr,DÍA,5550.0,5550.0,5550.0,354.0 gr,8480017451255,23,-34.6037,-58.3816
+2025-12-10 21:13:03.257083,PreciosClaros,atun,Atun en Lomitos en Aceite Dia 170 Gr,DÍA,2750.0,2750.0,2750.0,170.0 gr,8480017558138,23,-34.6037,-58.3816
+2025-12-10 21:13:03.257090,PreciosClaros,atun,Atun en Lomitos en Aceite Dia 354 Gr,DÍA,5550.0,5550.0,5550.0,354.0 gr,8480017451279,23,-34.6037,-58.3816
+2025-12-10 21:13:03.257096,PreciosClaros,atun,Atun en Lomitos en Aceite y Agua Coto 165 Gr,COTO,2992.5,2992.5,2992.5,165.0 gr,12-1-2800001795510,2,-34.6037,-58.3816
+2025-12-10 21:13:03.257102,PreciosClaros,atun,Atun en Trozos al Natural Ciudad Del Lago 170 Gr,CIUDAD DEL LAGO,2482.1,2482.1,2482.1,170.0 gr,12-1-2800000706999,2,-34.6037,-58.3816
+2025-12-10 21:13:03.257108,PreciosClaros,atun,Atun en Trozos en Aceite Ciudad Del Lago 170 Gr,CIUDAD DEL LAGO,2482.1,2482.1,2482.1,170.0 gr,12-1-2800000707002,2,-34.6037,-58.3816
+2025-12-10 21:13:03.257114,PreciosClaros,atun,Atun Lomo al Natural Coto 165 Gr,COTO,2992.5,2992.5,2992.5,165.0 gr,12-1-2800001795503,2,-34.6037,-58.3816
+2025-12-10 21:13:03.257120,PreciosClaros,atun,Alimento Humedo para Gatos Atun y Sardina Pets Class 85 Gr,PET'S CLASS,1250.0,1250.0,1250.0,85.0 gr,7798139791793,1,-34.6037,-58.3816
+2025-12-10 21:13:03.257126,PreciosClaros,atun,Alimento para Gatos Atun Whiskas 340 Gr,WHISKAS,4000.0,4000.0,4000.0,340.0 gr,7797453971744,2,-34.6037,-58.3816
+2025-12-10 21:13:03.257139,PreciosClaros,atun,Alimento para Gatos Atun y Sardina Whiskas 1 Kg,WHISKAS,6757.0,7800.0,6757.0,1.0 kg,7797453972291,4,-34.6037,-58.3816
+2025-12-10 21:13:03.257145,PreciosClaros,atun,Alimento para Gatos Atun y Sardina Whiskas 3 Kg,WHISKAS,20100.0,20100.0,20100.0,3.0 kg,7797453972307,2,-34.6037,-58.3816
+2025-12-10 21:13:03.257151,PreciosClaros,atun,Alimento para Gatos Fancy Feast Goulash Atun Purina 85 Gr,PURINA,2500.0,2500.0,2500.0,85.0 gr,7891000295717,23,-34.6037,-58.3816
+2025-12-10 21:13:03.257157,PreciosClaros,atun,Alimento para Gatos Salsa Atun Felix 85 Gr,FELIX,1800.0,1800.0,1800.0,85.0 gr,7891000120774,23,-34.6037,-58.3816
+2025-12-10 21:13:15.797043,PreciosClaros,detergente,Detergente Cremoso Limon Heroe 750 Ml,HÉROE,1527.99,1527.99,1527.99,750.0 ml,7798131250533,1,-34.6037,-58.3816
+2025-12-10 21:13:15.797060,PreciosClaros,detergente,Detergente Cremoso Ultra Limon Bot X 300 Cc,MAGISTRAL,2752.99,2752.99,2752.99,1.0 uni,7790990003404,2,-34.6037,-58.3816
+2025-12-10 21:13:15.797069,PreciosClaros,detergente,Detergente en Polvo Lavavajilla Finish 1 Kg,FINISH,8950.0,8950.0,8950.0,1.0 kg,7791130962841,1,-34.6037,-58.3816
+2025-12-10 21:13:15.797076,PreciosClaros,detergente,Detergente en Tabletas para Maquina Lavavajilla Finish 15 Un,FINISH,12972.99,12972.99,12972.99,15.0 un,7791130963312,1,-34.6037,-58.3816
+2025-12-10 21:13:15.797083,PreciosClaros,detergente,Detergente Lavavajilla Crema Dia 750 Ml,DÍA,1690.0,1690.0,1690.0,750.0 ml,8480017328298,23,-34.6037,-58.3816
+2025-12-10 21:13:15.797091,PreciosClaros,detergente,Detergente Lavavajilla Cremoso Limon Jumbo 750 Ml,JUMBO,2050.0,2050.0,2050.0,750.0 ml,7792052046053,2,-34.6037,-58.3816
+2025-12-10 21:13:15.797105,PreciosClaros,detergente,Detergente Lavavajilla Limon Dia 750 Ml,DÍA,1690.0,1690.0,1690.0,750.0 ml,8480017328281,23,-34.6037,-58.3816
+2025-12-10 21:13:15.797112,PreciosClaros,detergente,Detergente Lavavajillas Jumbo Home Care 300 Ml,JUMBO,1780.0,1780.0,1780.0,300.0 ml,7792052041744,1,-34.6037,-58.3816
+2025-12-10 21:13:15.797118,PreciosClaros,detergente,Detergente Limon Con Glicerina Zorro Dp 450 Ml,ZORRO,2069.0,2069.0,2069.0,1.0 uni,7790990003480,1,-34.6037,-58.3816
+2025-12-10 21:13:15.797126,PreciosClaros,detergente,Detergente Liquido Bioactive Lima Cif 300 Ml,CIF,2040.0,2150.0,2040.0,300.0 ml,7791290794108,26,-34.6037,-58.3816
+2025-12-10 21:13:15.797132,PreciosClaros,detergente,Detergente Liquido Bioactive Lima Cif 500 Ml,CIF,3380.0,3600.0,3380.0,500.0 ml,7791290794115,28,-34.6037,-58.3816
+2025-12-10 21:13:15.797139,PreciosClaros,detergente,Detergente Liquido Bioactive Lima Cif 750 Ml,CIF,5090.0,5300.0,5090.0,750.0 ml,7791290794122,26,-34.6037,-58.3816
+2025-12-10 21:13:15.797146,PreciosClaros,detergente,Detergente Liquido Bioactive Lima Doypack Cif 450 Ml,CIF,2980.0,3100.0,2980.0,450.0 ml,7791290794092,27,-34.6037,-58.3816
+2025-12-10 21:13:15.797159,PreciosClaros,detergente,Detergente Liquido Bioactive Limon Cif 300 Ml,CIF,2040.0,2150.0,2040.0,300.0 ml,7791290794054,26,-34.6037,-58.3816
+2025-12-10 21:13:15.797166,PreciosClaros,detergente,Detergente Liquido Bioactive Limon Cif 500 Ml,CIF,3390.0,3600.0,3390.0,500.0 ml,7791290794061,28,-34.6037,-58.3816
+2025-12-10 21:13:15.797172,PreciosClaros,detergente,Detergente Liquido Bioactive Limon Cif 750 Ml,CIF,5090.0,5300.0,5090.0,750.0 ml,7791290794078,27,-34.6037,-58.3816
+2025-12-10 21:13:15.797186,PreciosClaros,detergente,Detergente Liquido Bioactive Limon Doypack Cif 450 Ml,CIF,2980.0,3100.0,2980.0,450.0 ml,7791290794085,27,-34.6037,-58.3816
+2025-12-10 21:13:15.797193,PreciosClaros,detergente,Detergente Liquido Concentrado Limon Ala 300 Ml,ALA,1740.0,1744.99,1740.0,300.0 ml,7791290794276,25,-34.6037,-58.3816
+2025-12-10 21:13:15.797225,PreciosClaros,detergente,Detergente Liquido Concentrado Oceano Ala 300 Cc,ALA,1740.0,1744.99,1740.0,300.0 cc,7791290794313,25,-34.6037,-58.3816
+2025-12-10 21:13:15.797232,PreciosClaros,detergente,Detergente Liquido Concentrado Oceano Ala 500 Cc,ALA,2880.0,2886.99,2880.0,500.0 cc,7791290794320,25,-34.6037,-58.3816
+2025-12-10 21:13:15.797239,PreciosClaros,detergente,Detergente Liquido Concentrado Pomelo Ala 300 Cc,ALA,1740.0,1744.99,1740.0,300.0 cc,7791290794290,24,-34.6037,-58.3816
+2025-12-10 21:13:15.797246,PreciosClaros,detergente,Detergente Liquido Concentrado Pomelo Ala 500 Cc,ALA,2880.0,2886.99,2880.0,500.0 cc,7791290794306,25,-34.6037,-58.3816
+2025-12-10 21:13:15.797252,PreciosClaros,detergente,Detergente Liquido para Ropa Escudo Protector Evolution Zorro 3 Lt,ZORRO,11000.0,11669.99,11000.0,3.0 lt,7790990001882,3,-34.6037,-58.3816
+2025-12-10 21:13:15.797259,PreciosClaros,detergente,Detergente Liquido Ultra Aloe Vera Multimax 100 Cc,MULTIMAX,729.99,750.0,729.99,100.0 cc,7798184581639,2,-34.6037,-58.3816
+2025-12-10 21:13:15.797266,PreciosClaros,detergente,Detergente Liquido Ultra Glicerina Multimax 100 Cc,MULTIMAX,729.99,750.0,729.99,100.0 cc,7798184581646,4,-34.6037,-58.3816
+2025-12-10 21:13:15.797272,PreciosClaros,detergente,Detergente Liquido Ultra Limon Ala 500 Cc,ALA,2880.0,3000.0,2880.0,500.0 cc,7791290794283,27,-34.6037,-58.3816
+2025-12-10 21:13:15.797290,PreciosClaros,detergente,Detergente Liquido Ultra Limon Doyoack Ala 450 Ml,ALA,2470.0,2473.99,2470.0,450.0 ml,7791290794269,25,-34.6037,-58.3816
+2025-12-10 21:13:15.797296,PreciosClaros,detergente,Detergente Liquido Ultra Limon Multimax 100 Cc,MULTIMAX,729.99,750.0,729.99,100.0 cc,7798184581622,3,-34.6037,-58.3816
+2025-12-10 21:13:15.797303,PreciosClaros,detergente,Detergente Manzana Heroe 300 Ml,HEROE,1600.0,1600.0,1600.0,300.0 ml,7798131250458,2,-34.6037,-58.3816
+2025-12-10 21:13:15.797309,PreciosClaros,detergente,Detergente Original Cif Bot 750 Ml,CIF,6104.99,6104.99,6104.99,750.0 ml,7791290796713,1,-34.6037,-58.3816
+2025-12-10 21:13:18.918874,PreciosClaros,lavandina,Lavandina Aditivada Naranja Heroe 1 Lt,HÉROE,960.0,1000.0,960.0,1.0 lt,7798131250380,25,-34.6037,-58.3816
+2025-12-10 21:13:18.918934,PreciosClaros,lavandina,Lavandina Aditivada Naranja Heroe 2 Lt,HÉROE,1910.0,1950.0,1910.0,2.0 lt,7798131250397,24,-34.6037,-58.3816
+2025-12-10 21:13:18.918945,PreciosClaros,lavandina,Lavandina Anti-splash Tradicional Ayudin 2 Lt,AYUDÍN,3690.99,3850.0,3690.99,2.0 lt,7793253003784,26,-34.6037,-58.3816
+2025-12-10 21:13:18.918954,PreciosClaros,lavandina,Lavandina Ayudin Ropa Blanca 450 Cc,AYUDÍN,8590.0,8900.0,8590.0,450.0 cc,7793253002589,25,-34.6037,-58.3816
+2025-12-10 21:13:18.918960,PreciosClaros,lavandina,Lavandina Clasica Concentrada Querubin 2 Lt,QUERUBÍN,2599.99,2599.99,2599.99,2.0 lt,7791905000037,2,-34.6037,-58.3816
+2025-12-10 21:13:18.918969,PreciosClaros,lavandina,Lavandina Clasica Querubin 1 Lt,QUERUBÍN,1349.99,1349.99,1349.99,1.0 lt,7791905000020,2,-34.6037,-58.3816
+2025-12-10 21:13:18.918986,PreciosClaros,lavandina,Lavandina Concentrada Ayudin 1 Lt,AYUDÍN,1299.0,1411.99,1299.0,1.0 lt,7790132098459,27,-34.6037,-58.3816
+2025-12-10 21:13:18.918993,PreciosClaros,lavandina,Lavandina Concentrada Clasica Heroe 1 Lt,HÉROE,964.99,964.99,964.99,1.0 lt,7798131250052,2,-34.6037,-58.3816
+2025-12-10 21:13:18.919001,PreciosClaros,lavandina,Lavandina Concentrada Uso Domestico Clasica Heroe 2 Lt,HÉROE,1853.99,1853.99,1853.99,2.0 lt,7798131250045,2,-34.6037,-58.3816
+2025-12-10 21:13:18.919016,PreciosClaros,lavandina,Lavandina En Gel,HEROE,2023.99,2110.0,2023.99,700.0 ml,7798131250700,24,-34.6037,-58.3816
+2025-12-10 21:13:18.919025,PreciosClaros,lavandina,Lavandina en Gel Citrica Ayudin 1.5 Lt,AYUDÍN,6200.0,6200.0,6200.0,1.5 lt,7793253003876,1,-34.6037,-58.3816
+2025-12-10 21:13:18.919032,PreciosClaros,lavandina,Lavandina en Gel Citrica Ayudin 700 Ml,AYUDÍN,2850.99,2950.0,2850.99,700.0 ml,7793253003807,27,-34.6037,-58.3816
+2025-12-10 21:13:18.919039,PreciosClaros,lavandina,Lavandina en Gel Dia 700 Ml,DIA,2005.0,2005.0,2005.0,700.0 ml,8480017163226,23,-34.6037,-58.3816
+2025-12-10 21:13:18.919046,PreciosClaros,lavandina,Lavandina en Gel Floral Ayudin 700 Ml,AYUDÍN,2850.99,2950.0,2850.99,700.0 ml,7793253003814,4,-34.6037,-58.3816
+2025-12-10 21:13:18.919055,PreciosClaros,lavandina,Lavandina en Gel Lavanda Ayudin 700 Ml,AYUDÍN,2850.99,2950.0,2850.99,700.0 ml,7793253003838,27,-34.6037,-58.3816
+2025-12-10 21:13:18.919065,PreciosClaros,lavandina,Lavandina en Gel Menta Ayudin 700 Ml,AYUDÍN,2850.99,2950.0,2850.99,700.0 ml,7793253003821,4,-34.6037,-58.3816
+2025-12-10 21:13:18.919079,PreciosClaros,lavandina,Lavandina en Gel Original Ayudin 1.5 Lt,AYUDÍN,6200.0,6200.0,6200.0,1.5 lt,7793253003869,1,-34.6037,-58.3816
+2025-12-10 21:13:18.919087,PreciosClaros,lavandina,Lavandina en Gel Original Ayudin 500 Ml,AYUDÍN,2434.99,2434.99,2434.99,500.0 ml,7793253005856,2,-34.6037,-58.3816
+2025-12-10 21:13:18.919095,PreciosClaros,lavandina,Lavandina en Gel Original Ayudin 700 Ml,AYUDÍN,2850.99,2950.0,2850.99,700.0 ml,7793253003791,27,-34.6037,-58.3816
+2025-12-10 21:13:18.919109,PreciosClaros,lavandina,Lavandina Glaciar Triple Poder Ayudin 1 Lt,AYUDÍN,1614.99,1700.0,1614.99,1.0 lt,7793253003746,4,-34.6037,-58.3816
+2025-12-10 21:13:18.919119,PreciosClaros,lavandina,Lavandina Glaciar Triple Poder Ayudin 2 Lt,AYUDÍN,3085.99,3200.0,3085.99,2.0 lt,7793253003753,27,-34.6037,-58.3816
+2025-12-10 21:13:18.919127,PreciosClaros,lavandina,Lavandina Glaciar Triple Poder Ayudin 4 Lt,AYUDÍN,6166.99,6166.99,6166.99,4.0 lt,7793253003760,2,-34.6037,-58.3816
+2025-12-10 21:13:18.919137,PreciosClaros,lavandina,Lavandina Lavanda Triple Accion Ayudin 1 Lt,AYUDÍN,1614.99,1700.0,1614.99,1.0 lt,7793253003715,26,-34.6037,-58.3816
+2025-12-10 21:13:18.919147,PreciosClaros,lavandina,Lavandina Lavanda Triple Poder Ayudin 2 Lt,AYUDÍN,3086.99,3200.0,3086.99,2.0 lt,7793253003722,27,-34.6037,-58.3816
+2025-12-10 21:13:18.919154,PreciosClaros,lavandina,Lavandina Lavanda Triple Poder Ayudin 4 Lt,AYUDÍN,6166.99,6400.0,6166.99,4.0 lt,7793253003739,3,-34.6037,-58.3816
+2025-12-10 21:13:18.919165,PreciosClaros,lavandina,Lavandina Limpalin 2 Lt,LIMPIALIN,2200.0,2200.0,2200.0,2.0 lt,7798238110211,2,-34.6037,-58.3816
+2025-12-10 21:13:18.919187,PreciosClaros,lavandina,Lavandina Liquida 25 Gr Limpalin 1 Lt,GIGANTE,1250.0,1250.0,1250.0,1.0 lt,7798238110204,2,-34.6037,-58.3816
+2025-12-10 21:13:18.919234,PreciosClaros,lavandina,Lavandina para Ropa Ayudin 400 Ml,AYUDÍN,2289.99,2400.0,2289.99,400.0 ml,7793253003234,4,-34.6037,-58.3816
+2025-12-10 21:13:18.919244,PreciosClaros,lavandina,Lavandina Tradicional Anti-Splash Ayudin 1 Lt,AYUDÍN,1908.99,2050.0,1908.99,1.0 lt,7793253003777,26,-34.6037,-58.3816
+2025-12-10 21:13:18.919250,PreciosClaros,lavandina,Gel Limpia Inodoros con Lavandina y Cloro Harpic 500 Ml,HARPIC,5700.0,5700.0,5700.0,500.0 ml,7791130004176,2,-34.6037,-58.3816
+2025-12-10 21:13:22.384945,PreciosClaros,jabon tocador,Jabon de Tocador Algas Marinas Protex 270 Gr,PROTEX,3900.0,3900.0,3900.0,270.0 gr,7793100292163,1,-34.6037,-58.3816
+2025-12-10 21:13:22.384960,PreciosClaros,jabon tocador,Jabon de Tocador Antibacterial Aloe Rexona 3 Un 90 Gr,REXONA,3702.0,3850.0,3702.0,90.0 gr,7791293046907,4,-34.6037,-58.3816
+2025-12-10 21:13:22.384968,PreciosClaros,jabon tocador,Jabon de Tocador Antibacterial Aloe Rexona 90 Gr,REXONA,1364.0,1450.0,1364.0,90.0 gr,7791293046877,4,-34.6037,-58.3816
+2025-12-10 21:13:22.384975,PreciosClaros,jabon tocador,Jabon de Tocador Antibacterial Fresh Rexona 3 Un 90 Gr,REXONA,3702.0,3790.0,3702.0,90.0 gr,7791293046914,25,-34.6037,-58.3816
+2025-12-10 21:13:22.384982,PreciosClaros,jabon tocador,Jabon de Tocador Antibacterial Fresh Rexona 90 Gr,REXONA,1364.0,1450.0,1364.0,90.0 gr,7791293046884,27,-34.6037,-58.3816
+2025-12-10 21:13:22.384989,PreciosClaros,jabon tocador,Jabon de Tocador Antibacterial Kenia 80 Gr,KENIA,699.0,699.0,699.0,80.0 gr,7790828105058,23,-34.6037,-58.3816
+2025-12-10 21:13:22.385001,PreciosClaros,jabon tocador,Jabon de Tocador Antibacterial Original Rexona 3 Un 90 Gr,REXONA,3702.0,3850.0,3702.0,90.0 gr,7791293046891,4,-34.6037,-58.3816
+2025-12-10 21:13:22.385008,PreciosClaros,jabon tocador,Jabon de Tocador Antibacterial Original Rexona 90 Gr,REXONA,1364.0,1450.0,1364.0,90.0 gr,7791293046860,4,-34.6037,-58.3816
+2025-12-10 21:13:22.385014,PreciosClaros,jabon tocador,Jabon de Tocador Armonia St Tropez 3 Un 125 Gr,ST TROPEZ,850.0,900.0,850.0,125.0 gr,7794218106533,4,-34.6037,-58.3816
+2025-12-10 21:13:22.385021,PreciosClaros,jabon tocador,Jabon de Tocador Balance Plusbelle 120 Gr,PLUSBELLE,1150.0,1200.0,1150.0,120.0 gr,7790990000786,2,-34.6037,-58.3816
+2025-12-10 21:13:22.385028,PreciosClaros,jabon tocador,Jabon de Tocador Bamboo Rexona 125 Gr,REXONA,900.0,900.0,900.0,125.0 gr,7791293049076,1,-34.6037,-58.3816
+2025-12-10 21:13:22.385033,PreciosClaros,jabon tocador,Jabon de Tocador Bouquet de Flores Limol 3 Un 90 Gr,LIMOL,1999.99,1999.99,1999.99,270.0 gr,7790990001967,2,-34.6037,-58.3816
+2025-12-10 21:13:22.385040,PreciosClaros,jabon tocador,Jabon de Tocador Brillo y Luz St Tropez 125 Gr,ST TROPEZ,889.0,889.0,889.0,125.0 gr,7794218000138,2,-34.6037,-58.3816
+2025-12-10 21:13:22.385046,PreciosClaros,jabon tocador,Jabon de Tocador Brillo y Luz St Tropez 3 Un 375 Gr,ST TROPEZ,2567.0,2567.0,2567.0,3.0 un,7794218000152,2,-34.6037,-58.3816
+2025-12-10 21:13:22.385053,PreciosClaros,jabon tocador,Jabon de Tocador Brisa Primavera St Tropez 125 Gr,ST TROPEZ,850.0,900.0,850.0,125.0 gr,7794218000169,4,-34.6037,-58.3816
+2025-12-10 21:13:22.385059,PreciosClaros,jabon tocador,Jabon de Tocador con Glicerina Esencia 3 Un 120 Gr,ESENCIA,3310.99,3310.99,3310.99,120.0 gr,7790740000738,2,-34.6037,-58.3816
+2025-12-10 21:13:22.385099,PreciosClaros,jabon tocador,Jabon de Tocador con Karite Palmolive 85 Gr,PALMOLIVE,704.99,750.0,704.99,85.0 gr,7891024034781,27,-34.6037,-58.3816
+2025-12-10 21:13:22.385106,PreciosClaros,jabon tocador,Jabon de Tocador Crema Cupido 3 Un 270 Gr,CUPIDO,1690.0,1690.0,1690.0,3.0 un,7794218106373,23,-34.6037,-58.3816
+2025-12-10 21:13:22.385113,PreciosClaros,jabon tocador,Jabon de Tocador Energia Campos Verdes 3 Un,CAMPOS VERDES,2829.99,2829.99,2829.99,3.0 un,7790990000939,2,-34.6037,-58.3816
+2025-12-10 21:13:22.385119,PreciosClaros,jabon tocador,Jabon de Tocador Energia Plusbelle 125 Gr,PLUSBELLE,1050.0,1050.0,1050.0,125.0 gr,7790990000847,2,-34.6037,-58.3816
+2025-12-10 21:13:22.385126,PreciosClaros,jabon tocador,Jabon de Tocador Esencia Piel Sensible Plusbelle 120 Gr,PLUSBELLE,1339.99,1450.0,1339.99,120.0 gr,7790740000707,3,-34.6037,-58.3816
+2025-12-10 21:13:22.385132,PreciosClaros,jabon tocador,Jabon de Tocador Flores St Tropez 125 Gr,ST TROPEZ,850.0,889.0,850.0,125.0 gr,7794218000183,3,-34.6037,-58.3816
+2025-12-10 21:13:22.385138,PreciosClaros,jabon tocador,Jabon de Tocador Flores St Tropez 3 Un 125 Gr,ST TROPEZ,2567.0,2567.0,2567.0,3.0 un,7794218000190,2,-34.6037,-58.3816
+2025-12-10 21:13:22.385145,PreciosClaros,jabon tocador,Jabon de Tocador Frescura Campos Verdes 120 Gr,CAMPOS VERDES,1029.99,1029.99,1029.99,120.0 gr,7790990000984,2,-34.6037,-58.3816
+2025-12-10 21:13:22.385152,PreciosClaros,jabon tocador,Jabon de Tocador Frescura Liberadora Campos Verdes 3 Un 120 Gr,CAMPOS VERDES,2829.99,2829.99,2829.99,120.0 gr,7790990000946,2,-34.6037,-58.3816
+2025-12-10 21:13:22.385160,PreciosClaros,jabon tocador,Jabon de Tocador Frescura Marina St Tropez 125 Gr,ST TROPEZ,850.0,900.0,850.0,125.0 gr,7794218000039,4,-34.6037,-58.3816
+2025-12-10 21:13:22.385174,PreciosClaros,jabon tocador,Jabon de Tocador Frescura Marina St Tropez 3 Un 375 Gr,ST TROPEZ,2567.0,2567.0,2567.0,3.0 un,7794218000046,2,-34.6037,-58.3816
+2025-12-10 21:13:22.385181,PreciosClaros,jabon tocador,Jabon de Tocador Frescura Plusbelle 3 Un 125 Gr,PLUSBELLE,3239.99,3450.0,3239.99,125.0 gr,7790990000878,26,-34.6037,-58.3816
+2025-12-10 21:13:22.385187,PreciosClaros,jabon tocador,Jabon de Tocador Frescura Purificante Palmolive 3 Un 270 Gr,PALMOLIVE,3250.0,3350.0,3250.0,270.0 gr,7509546683386,4,-34.6037,-58.3816
+2025-12-10 21:13:22.385243,PreciosClaros,jabon tocador,Jabon de Tocador Frescura Reconexion Plusbelle 125 Gr,PLUSBELLE,1250.0,1300.0,1250.0,125.0 gr,7790990000830,2,-34.6037,-58.3816
+2025-12-10 21:13:25.590161,PreciosClaros,jabon liquido,Jabon Liquido Aloe Protex 221 Ml,PROTEX,5090.0,5090.0,5090.0,221.0 ml,7702010420320,23,-34.6037,-58.3816
+2025-12-10 21:13:25.590180,PreciosClaros,jabon liquido,Jabon Liquido Aloe y Pepino Doypack Suave 220 Ml,SUAVE,990.0,990.0,990.0,220.0 ml,7791293049427,23,-34.6037,-58.3816
+2025-12-10 21:13:25.590191,PreciosClaros,jabon liquido,Jabon Liquido Antibacterial Doypack Estilo Spa 320 Ml,ESTILO SPA,1950.0,1950.0,1950.0,320.0 ml,7798096053248,1,-34.6037,-58.3816
+2025-12-10 21:13:25.590224,PreciosClaros,jabon liquido,Jabon Liquido Antibacterial Fresh Repuesto Doypack Rexona 220 Ml,REXONA,3250.0,3250.0,3250.0,220.0 ml,7791293041858,1,-34.6037,-58.3816
+2025-12-10 21:13:25.590234,PreciosClaros,jabon liquido,Jabon Liquido Antibacterial Manos Vitamina E Protex Doypack 200 Cc,PROTEX,2700.0,2700.0,2700.0,200.0 cc,7891024027257,2,-34.6037,-58.3816
+2025-12-10 21:13:25.590244,PreciosClaros,jabon liquido,Jabon Liquido Antibacterial Original Doypack Rexona 220 Ml,REXONA,3250.0,3250.0,3250.0,220.0 ml,7791293041865,2,-34.6037,-58.3816
+2025-12-10 21:13:25.590264,PreciosClaros,jabon liquido,Jabon Liquido Antibacterial Original Repuesto Espadol 220 Ml,ESPADOL,3750.0,3750.0,3750.0,220.0 ml,7798339190259,2,-34.6037,-58.3816
+2025-12-10 21:13:25.590274,PreciosClaros,jabon liquido,Jabon Liquido Antibacterial Original Repuesto Espadol 500 Ml,ESPADOL,7300.0,7300.0,7300.0,500.0 ml,7798339190266,2,-34.6037,-58.3816
+2025-12-10 21:13:25.590283,PreciosClaros,jabon liquido,Jabon Liquido Antibacterial Original Rexona 250 Ml,REXONA,4650.0,4650.0,4650.0,250.0 ml,7791293041810,2,-34.6037,-58.3816
+2025-12-10 21:13:25.590293,PreciosClaros,jabon liquido,Jabon Liquido Antibacterial para Manos Fresh Rexona 250 Ml,REXONA,4650.0,4650.0,4650.0,250.0 ml,7791293041797,2,-34.6037,-58.3816
+2025-12-10 21:13:25.590311,PreciosClaros,jabon liquido,Jabon Liquido Antibacterial para Manos Rexona 250 Ml,REXONA,4650.0,4650.0,4650.0,250.0 ml,7791293041803,1,-34.6037,-58.3816
+2025-12-10 21:13:25.590319,PreciosClaros,jabon liquido,Jabon Liquido Antibacterial Skincare Repuesto Espadol 220 Ml,ESPADOL,3750.0,3790.0,3750.0,220.0 ml,7798339190280,24,-34.6037,-58.3816
+2025-12-10 21:13:25.590328,PreciosClaros,jabon liquido,Jabon Liquido Aroma Relax Palmolive 200 Ml,PALMOLIVE,2230.0,2300.0,2230.0,200.0 ml,7509546070988,26,-34.6037,-58.3816
+2025-12-10 21:13:25.590337,PreciosClaros,jabon liquido,Jabon Liquido Avena Protex 221 Ml,PROTEX,5004.0,5004.0,5004.0,221.0 ml,7702010420313,1,-34.6037,-58.3816
+2025-12-10 21:13:25.590346,PreciosClaros,jabon liquido,Jabon Liquido Baby Enriquseido Dove 180 Ml,DOVE,3829.0,4050.0,3829.0,180.0 ml,7891150035874,28,-34.6037,-58.3816
+2025-12-10 21:13:25.590355,PreciosClaros,jabon liquido,Jabon Liquido Baby Enriquseido Dove 200 Ml,DOVE,5462.0,5590.0,5462.0,200.0 ml,7891150025981,25,-34.6037,-58.3816
+2025-12-10 21:13:25.590374,PreciosClaros,jabon liquido,Jabon Liquido Baby Sensisble Dove 180 Ml,DOVE,3829.0,3950.0,3829.0,180.0 ml,7891150035881,27,-34.6037,-58.3816
+2025-12-10 21:13:25.590383,PreciosClaros,jabon liquido,Jabon Liquido Balance Doypack Protex 200 Cc,PROTEX,2590.0,2590.0,2590.0,200.0 cc,7891024027226,23,-34.6037,-58.3816
+2025-12-10 21:13:25.590394,PreciosClaros,jabon liquido,Jabon Liquido Berries Hid Revit Villeneuve X 240cc,VILLENEUVE,3300.0,3300.0,3300.0,1.0 uni,7793008018858,2,-34.6037,-58.3816
+2025-12-10 21:13:25.590403,PreciosClaros,jabon liquido,Jabon Liquido Coconut Hid Suav Villeneuve X 240cc,VILLENEUVE,3300.0,3300.0,3300.0,1.0 uni,7793008018865,2,-34.6037,-58.3816
+2025-12-10 21:13:25.590413,PreciosClaros,jabon liquido,Jabon Liquido con Toque de Vivere Ala 3 Lt,ALA,11589.99,11950.0,11589.99,3.0 lt,7791290792173,3,-34.6037,-58.3816
+2025-12-10 21:13:25.590422,PreciosClaros,jabon liquido,Jabon Liquido Corporal Nutrimilk Palmolive Doypack 200 Ml,PALMOLIVE,1690.0,2300.0,1690.0,200.0 ml,7891024028995,27,-34.6037,-58.3816
+2025-12-10 21:13:25.590431,PreciosClaros,jabon liquido,Jabon Liquido de Coco Dove 250 Ml,DOVE,5100.0,5164.0,5100.0,250.0 ml,7891150029309,3,-34.6037,-58.3816
+2025-12-10 21:13:25.590441,PreciosClaros,jabon liquido,Jabon Liquido de Ducha Nutri Milk Palmolive 250 Ml,PALMOLIVE,2490.0,3500.0,2490.0,250.0 ml,7891024112861,25,-34.6037,-58.3816
+2025-12-10 21:13:25.590450,PreciosClaros,jabon liquido,Jabon Liquido Eco Lavado a Mano Doypack Ala 800 Ml,ALA,2951.99,2951.99,2951.99,800.0 ml,7791290794634,2,-34.6037,-58.3816
+2025-12-10 21:13:25.590460,PreciosClaros,jabon liquido,Jabon Liquido Ecovita Dp 800 Ml,ECOVITA,2930.0,3050.0,2930.0,800.0 ml,7798124361550,27,-34.6037,-58.3816
+2025-12-10 21:13:25.590478,PreciosClaros,jabon liquido,Jabon Liquido Esencias Durazno Dermo Vagisil 354 Ml,DERMO VAGISIL,12990.0,12990.0,12990.0,354.0 ml,7798092840538,23,-34.6037,-58.3816
+2025-12-10 21:13:25.590487,PreciosClaros,jabon liquido,Jabon Corporal Liquido Citrus Spalsh Algabo 300 Ml,ALGABO,1615.0,1700.0,1615.0,300.0 ml,7791274196010,3,-34.6037,-58.3816
+2025-12-10 21:13:25.590497,PreciosClaros,jabon liquido,Jabon Corporal Liquido Floral Rain Doypack Algabo 300 Ml,ALGABO,1615.0,1700.0,1615.0,300.0 ml,7791274196003,3,-34.6037,-58.3816
+2025-12-10 21:13:25.590506,PreciosClaros,jabon liquido,Jabon Corporal Liquido Repuesto Green Tea Algabo 300 Ml,ALGABO,1615.0,1700.0,1615.0,300.0 ml,7791274196041,3,-34.6037,-58.3816

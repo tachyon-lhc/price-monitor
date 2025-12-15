@@ -1,0 +1,11 @@
+timestamp,fuente,categoria,nombre,marca,precio_min,precio_max,precio,presentacion,ean,sucursales_disponibles,lat,lng
+2025-12-10 14:35:54.592999,PreciosClaros,leche,Acondicionador Coco y Leche Eco-Pack Algabo 930 Ml,ALGABO,4240.0,4450.0,4240.0,930.0 ml,7791274199486,12,-38.0055,-57.5426
+2025-12-10 14:35:54.593018,PreciosClaros,leche,Alfajor Blanco Mini Dulce de Leche Jorgito 6 Un 155 Gr,JORGITO,3500.0,3600.0,3500.0,155.0 gr,7790957000538,6,-38.0055,-57.5426
+2025-12-10 14:35:54.593029,PreciosClaros,leche,Alfajor Chocolate Blanco con Dulce de Leche Bandeja Alfa Pampa 6 Un,ALFA PAMPA,3900.0,4050.0,3900.0,6.0 un,7798171732785,5,-38.0055,-57.5426
+2025-12-10 14:35:54.593036,PreciosClaros,leche,Alfajor Chocolate con Dulce de Leche Bandeja Alfa Pampa 6 Un,ALFA PAMPA,3900.0,4050.0,3900.0,6.0 un,7798171730262,5,-38.0055,-57.5426
+2025-12-10 14:35:54.593043,PreciosClaros,leche,Alfajor con Dulce de Leche Vauquita 80 Gr,VAUQUITA,1550.0,1550.0,1550.0,80.0 gr,7798138290167,4,-38.0055,-57.5426
+2025-12-10 14:35:57.258067,PreciosClaros,arroz,Alfajor de Arroz Dulce de Leche Chocoarroz 22 Gr,CHOCOARROZ,1400.0,1450.0,1400.0,22.0 gr,7790070418203,9,-38.0055,-57.5426
+2025-12-10 14:35:57.258081,PreciosClaros,arroz,Alfajor de Arroz Dulce de Leche Chocoarroz 30 Un,CHOCOARROZ,1400.0,1450.0,1400.0,30.0 un,7790070418210,4,-38.0055,-57.5426
+2025-12-10 14:35:57.258103,PreciosClaros,arroz,Alfajor de Arroz Marroc Chocoarroz 6 Un,CHOCOARROZ,7750.0,8000.0,7750.0,6.0 un,7790070418340,4,-38.0055,-57.5426
+2025-12-10 14:35:57.258110,PreciosClaros,arroz,Alfajor de Arroz Mousse Limon Vauquita 28 Gr,VAUQUITA,1050.0,1050.0,1050.0,28.0 gr,7798138290600,1,-38.0055,-57.5426
+2025-12-10 14:35:57.258116,PreciosClaros,arroz,Alfajor de Arroz Relleno Mousse de Dulce de Leche Vauquita 28 Gr,VAUQUITA,1050.0,1100.0,1050.0,28.0 gr,7798138290587,5,-38.0055,-57.5426

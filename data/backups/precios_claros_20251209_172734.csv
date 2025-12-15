@@ -1,0 +1,24 @@
+timestamp,fuente,categoria,nombre,marca,precio_min,precio_max,precio,presentacion,ean,sucursales_disponibles,lat,lng
+2025-12-09 17:27:14.017037,PreciosClaros,yogur,Tableta de Chocolate con Yogur Frutilla Cadbury 29 Gr,CADBURY,3100.0,3100.0,3100.0,29.0 gr,7622201818654,1,-34.6037,-58.3816
+2025-12-09 17:27:14.017062,PreciosClaros,yogur,Dnn Yogurisimo Bebible Frutilla Fort 190gr,YOGURISIMO,5000.0,5000.0,5000.0,0.18 kg,7791337009387,1,-34.6037,-58.3816
+2025-12-09 17:27:20.803321,PreciosClaros,azucar,"Gaseosa Cola Cero Azucar Pet, Pepsi Black, 500 Cm3",PEPSI BLACK,2500.0,2500.0,2500.0,500.0 cm3,7791813828365,1,-34.6037,-58.3816
+2025-12-09 17:27:24.285855,PreciosClaros,yerba mate,Yerba Mate Bajo Polvo 4 Flex Mañanita 500 Gr,MAÑANITA,4000.0,4000.0,4000.0,500.0 gr,7790387015324,1,-34.6037,-58.3816
+2025-12-09 17:27:24.285874,PreciosClaros,yerba mate,Yerba Mate con Palo 4Flex Suave Union 500 Gr,SUAVE UNION,1360.0,1360.0,1360.0,500.0 gr,7790387014624,1,-34.6037,-58.3816
+2025-12-09 17:27:24.285883,PreciosClaros,yerba mate,Yerba Mate con Palo 4Flex Taragui 500 Gr,TARAGUI,4000.0,4000.0,4000.0,500.0 gr,7790387013627,1,-34.6037,-58.3816
+2025-12-09 17:27:25.600780,PreciosClaros,te saquitos,Mate Cocido en Saquitos Taragui 25 Un,TARAGÜÍ,130.0,130.0,130.0,25.0 un,7790387000849,1,-34.6037,-58.3816
+2025-12-09 17:27:25.600802,PreciosClaros,te saquitos,Te de Jengibre en Saquitos Heredia 25 Un,SIN MARCA,305.0,305.0,305.0,25.0 un,7798003741381,1,-34.6037,-58.3816
+2025-12-09 17:27:25.600811,PreciosClaros,te saquitos,Te en Saquitos Surtido Clasico Heredia 25 Un,HEREDIA,310.0,310.0,310.0,25.0 un,7798003740568,1,-34.6037,-58.3816
+2025-12-09 17:27:33.606696,PreciosClaros,jabon tocador,Jabon Tocador Avena Nivea 3 Un 125 Gr,NIVEA,199.0,199.0,199.0,125.0 gr,4005900683830,24,-34.6037,-58.3816
+2025-12-09 17:27:33.606713,PreciosClaros,jabon tocador,Jabon de Tocador Cream Dove 90 Gr,DOVE,259.0,259.0,259.0,90.0 gr,7898422746759,24,-34.6037,-58.3816
+2025-12-09 17:27:33.606718,PreciosClaros,jabon tocador,Jabon de Tocador Dulces Sueños Johnsons Baby 80 Gr,JOHNSON'S,99.0,99.0,99.0,80.0 gr,7891010781668,24,-34.6037,-58.3816
+2025-12-09 17:27:33.606723,PreciosClaros,jabon tocador,Jabon de Tocador Glicerina Johnsons Baby 80 Gr,JOHNSON'S,99.0,99.0,99.0,80.0 gr,7891010035976,24,-34.6037,-58.3816
+2025-12-09 17:27:33.606744,PreciosClaros,jabon tocador,Jabon de Tocador Hora de Jugar Johnsons Baby 80 Gr,JOHNSON'S,99.0,99.0,99.0,80.0 gr,7891010936006,24,-34.6037,-58.3816
+2025-12-09 17:27:33.606748,PreciosClaros,jabon tocador,Jabon de Tocador Karite y Vainilla Dove 3 Un 270 Gr,DOVE,89.0,89.0,89.0,270.0 gr,7891150046528,24,-34.6037,-58.3816
+2025-12-09 17:27:33.606753,PreciosClaros,jabon tocador,Jabon de Tocador Nat Orchid Fresh Rexona Pack 3 125 Gr,REXONA,149.0,149.0,149.0,3.0 un,7791293032023,24,-34.6037,-58.3816
+2025-12-09 17:27:33.606758,PreciosClaros,jabon tocador,Jabon de Tocador Regular Johnsons Baby 80 Gr,JOHNSON'S,85.0,85.0,85.0,80.0 gr,7891010032906,24,-34.6037,-58.3816
+2025-12-09 17:27:33.606763,PreciosClaros,jabon tocador,Jabon de Tocador Revigorizante Dove 90 Gr,DOVE,259.0,259.0,259.0,90.0 gr,7891150043923,24,-34.6037,-58.3816
+2025-12-09 17:27:33.606768,PreciosClaros,jabon tocador,Jabon de Tocador Sensible Fresh Rexona Pack 3 125 Gr,REXONA,399.0,399.0,399.0,3.0 un,7791293031989,24,-34.6037,-58.3816
+2025-12-09 17:27:34.241935,PreciosClaros,jabon liquido,Jabon Liquido Manos Citrus Splash Algabo 300 Ml,ALGABO,189.0,189.0,189.0,300.0 ml,7791274193408,24,-34.6037,-58.3816
+2025-12-09 17:27:34.241951,PreciosClaros,jabon liquido,Jabon Liquido para Manos Fragancia Frutos del Bosque Algabo 300 Ml,ALGABO,219.0,219.0,219.0,300.0 ml,7791274000720,24,-34.6037,-58.3816
+2025-12-09 17:27:34.241956,PreciosClaros,jabon liquido,Jabon Liquido para Manos Fragancia Grenn Tea Algabo 300 Ml,ALGABO,129.0,129.0,129.0,300.0 ml,7791274193392,24,-34.6037,-58.3816
+2025-12-09 17:27:34.241961,PreciosClaros,jabon liquido,Jabon Liquido Spiderman 3D Avengers Algabo 300 Ml,ALGABO,2299.0,2299.0,2299.0,300.0 ml,7791274197987,24,-34.6037,-58.3816

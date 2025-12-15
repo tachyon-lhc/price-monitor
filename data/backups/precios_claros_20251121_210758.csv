@@ -1,0 +1,24 @@
+timestamp,fuente,categoria,nombre,marca,precio_min,precio_max,precio,presentacion,ean,sucursales_disponibles,lat,lng
+2025-11-21 21:07:45.227170,PreciosClaros,leche entera,Casanto Leche Entera 3 Sachet Casanto 1 Lt,CASANTO,1525.0,1650.0,1525.0,1.0 lt,7790742192301,27,-34.6037,-58.3816
+2025-11-21 21:07:45.227189,PreciosClaros,leche entera,Leche en Polvo Entera Bolsa La Serenisima 200 Gr,LA SERENÍSIMA,3236.0,3236.0,3236.0,200.0 gr,7790742436108,2,-34.6037,-58.3816
+2025-11-21 21:07:45.227199,PreciosClaros,leche entera,Leche en Polvo Entera con Vitaminas Purisima 200 Gr,PURÍSIMA,2670.0,2670.0,2670.0,200.0 gr,7798095171721,23,-34.6037,-58.3816
+2025-11-21 21:07:45.227206,PreciosClaros,leche entera,Leche en Polvo Entera Dia 400 Gr,DÍA,4780.0,4780.0,4780.0,400.0 gr,8480017034595,23,-34.6037,-58.3816
+2025-11-21 21:07:45.227213,PreciosClaros,leche entera,Leche en Polvo Entera Dia 800 Gr,DÍA,8750.0,8750.0,8750.0,800.0 gr,8480017297013,23,-34.6037,-58.3816
+2025-11-21 21:07:45.227219,PreciosClaros,leche entera,Leche en Polvo Entera Fortificada Santa Clara 400 Gr,SANTA CLARA,4649.0,4649.0,4649.0,400.0 gr,7798312320390,2,-34.6037,-58.3816
+2025-11-21 21:07:45.227247,PreciosClaros,leche entera,Leche en Polvo Entera La Serenisima 400 Gr,LA SERENÍSIMA,6178.0,6178.0,6178.0,400.0 gr,7790742436306,2,-34.6037,-58.3816
+2025-11-21 21:07:45.227253,PreciosClaros,leche entera,Leche en Polvo Entera Purisima Plus 800 Gr,PURÍSIMA,11450.0,11650.0,11450.0,800.0 gr,7798095171363,3,-34.6037,-58.3816
+2025-11-21 21:07:45.227259,PreciosClaros,leche entera,Leche en Polvo Entera Vitamina A y D Purisima 400 Gr,PURÍSIMA,6900.0,6900.0,6900.0,400.0 gr,7798095171813,2,-34.6037,-58.3816
+2025-11-21 21:07:45.227266,PreciosClaros,leche entera,Leche en Polvo Entera Zero Lactosa La Serenisima 400 Gr,LA SERENÍSIMA,7914.0,7914.0,7914.0,400.0 gr,7790742436504,4,-34.6037,-58.3816
+2025-11-21 21:07:47.838157,PreciosClaros,arroz largo fino,Arroz Largo Fino 0000 Ciudad Del Lago 1 Kg,CIUDAD DEL LAGO,1750.0,1750.0,1750.0,1.0 kg,12-1-2800001326455,2,-34.6037,-58.3816
+2025-11-21 21:07:47.838172,PreciosClaros,arroz largo fino,Arroz Largo Fino 00000 Dos Hermanos 1 Kg,DOS HERMANOS,1650.0,1770.0,1650.0,1.0 kg,7790503199082,3,-34.6037,-58.3816
+2025-11-21 21:07:47.838179,PreciosClaros,arroz largo fino,Arroz Largo Fino 00000 Molinos Ala 1 Kg,MOLINOS ALA,1250.0,1850.0,1250.0,1.0 kg,7791120031557,25,-34.6037,-58.3816
+2025-11-21 21:07:47.838186,PreciosClaros,arroz largo fino,Arroz Largo Fino 00000 Molinos Ala 500 Gr,MOLINOS ALA,790.0,790.0,790.0,500.0 gr,7791120031564,23,-34.6037,-58.3816
+2025-11-21 21:07:47.838192,PreciosClaros,arroz largo fino,Arroz Largo Fino 00000 Rojo Carogran 1 Kg,CAROGRAN,1299.0,1299.0,1299.0,1.0 kg,7793650000010,2,-34.6037,-58.3816
+2025-11-21 21:07:47.838198,PreciosClaros,arroz largo fino,Arroz Largo Fino 00000 sin TACC Maximo 500 Gr,MÁXIMO,800.0,800.0,800.0,500.0 gr,7790070412171,23,-34.6037,-58.3816
+2025-11-21 21:07:47.838217,PreciosClaros,arroz largo fino,Arroz Largo Fino 00000 Vanguardia 1 Kg,VANGUARDIA,1250.0,1599.0,1250.0,1.0 kg,7798078450126,27,-34.6037,-58.3816
+2025-11-21 21:07:47.838223,PreciosClaros,arroz largo fino,Arroz Largo Fino 00000 Vanguardia 500 Gr,VANGUARDIA,790.0,790.0,790.0,500.0 gr,7798078450393,23,-34.6037,-58.3816
+2025-11-21 21:07:47.838229,PreciosClaros,arroz largo fino,Arroz Largo Fino Carmabe 1 Kg,CARMABE,1225.0,1225.0,1225.0,1.0 kg,7795091000123,23,-34.6037,-58.3816
+2025-11-21 21:07:47.838235,PreciosClaros,arroz largo fino,Arroz Grano Largo Fino Ita Caabo Molinos Ala 1 Kg,MOLINOS ALA,2570.0,2600.0,2570.0,1.0 kg,7791120100819,24,-34.6037,-58.3816
+2025-11-21 21:07:57.985993,PreciosClaros,arroz grano largo,Arroz Grano Largo Cañuelas 1 Kg,CAÑUELAS,1600.0,1605.0,1600.0,1.0 kg,7792180139535,25,-34.6037,-58.3816
+2025-11-21 21:07:57.986008,PreciosClaros,arroz grano largo,Arroz Grano Largo Cañuelas 500 Gr,CAÑUELAS,990.0,990.0,990.0,500.0 gr,7792180139542,2,-34.6037,-58.3816
+2025-11-21 21:07:57.986015,PreciosClaros,arroz grano largo,Arroz Grano Largo Fino Ita Caabo Molinos Ala 1 Kg,MOLINOS ALA,2570.0,2600.0,2570.0,1.0 kg,7791120100819,24,-34.6037,-58.3816

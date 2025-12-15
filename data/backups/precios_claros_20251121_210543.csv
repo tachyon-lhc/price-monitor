@@ -1,0 +1,13 @@
+timestamp,fuente,categoria,nombre,marca,precio_min,precio_max,precio,presentacion,ean,sucursales_disponibles,lat,lng
+2025-11-21 21:05:40.801841,PreciosClaros,leche entera,Casanto Leche Entera 3 Sachet Casanto 1 Lt,CASANTO,1525.0,1650.0,1525.0,1.0 lt,7790742192301,27,-34.6037,-58.3816
+2025-11-21 21:05:40.801859,PreciosClaros,leche entera,Leche en Polvo Entera Bolsa La Serenisima 200 Gr,LA SERENÍSIMA,3236.0,3236.0,3236.0,200.0 gr,7790742436108,2,-34.6037,-58.3816
+2025-11-21 21:05:40.801869,PreciosClaros,leche entera,Leche en Polvo Entera con Vitaminas Purisima 200 Gr,PURÍSIMA,2670.0,2670.0,2670.0,200.0 gr,7798095171721,23,-34.6037,-58.3816
+2025-11-21 21:05:40.801877,PreciosClaros,leche entera,Leche en Polvo Entera Dia 400 Gr,DÍA,4780.0,4780.0,4780.0,400.0 gr,8480017034595,23,-34.6037,-58.3816
+2025-11-21 21:05:40.801884,PreciosClaros,leche entera,Leche en Polvo Entera Dia 800 Gr,DÍA,8750.0,8750.0,8750.0,800.0 gr,8480017297013,23,-34.6037,-58.3816
+2025-11-21 21:05:40.801891,PreciosClaros,leche entera,Leche en Polvo Entera Fortificada Santa Clara 400 Gr,SANTA CLARA,4649.0,4649.0,4649.0,400.0 gr,7798312320390,2,-34.6037,-58.3816
+2025-11-21 21:05:40.801911,PreciosClaros,leche entera,Leche en Polvo Entera La Serenisima 400 Gr,LA SERENÍSIMA,6178.0,6178.0,6178.0,400.0 gr,7790742436306,2,-34.6037,-58.3816
+2025-11-21 21:05:40.801917,PreciosClaros,leche entera,Leche en Polvo Entera Purisima Plus 800 Gr,PURÍSIMA,11450.0,11650.0,11450.0,800.0 gr,7798095171363,3,-34.6037,-58.3816
+2025-11-21 21:05:40.801922,PreciosClaros,leche entera,Leche en Polvo Entera Vitamina A y D Purisima 400 Gr,PURÍSIMA,6900.0,6900.0,6900.0,400.0 gr,7798095171813,2,-34.6037,-58.3816
+2025-11-21 21:05:40.801928,PreciosClaros,leche entera,Leche en Polvo Entera Zero Lactosa La Serenisima 400 Gr,LA SERENÍSIMA,7914.0,7914.0,7914.0,400.0 gr,7790742436504,4,-34.6037,-58.3816
+2025-11-21 21:05:43.302561,PreciosClaros,arroz blanco,Condimento para Arroz Blanco Tempero Sazon Ajinomoto 60 Gr,SAZON,1399.0,1399.0,1399.0,60.0 gr,7891132001705,2,-34.6037,-58.3816
+2025-11-21 21:05:43.302577,PreciosClaros,arroz blanco,Barra de Arroz con Chocolate Blanco Choco Black 20 Gr,GALLO,999.99,999.99,999.99,20.0 gr,7790070431653,2,-34.6037,-58.3816

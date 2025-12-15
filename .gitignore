@@ -24,13 +24,8 @@ wheels/
 *.egg
 
 # Database
-*.db
 *.sqlite
 *.sqlite3
-
-# Backups
-backups/
-*.csv
 
 # Environment
 .env
