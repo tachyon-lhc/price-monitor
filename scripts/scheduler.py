@@ -54,14 +54,11 @@ def main():
     # Configurar ejecución diaria a las 8:00 AM
     scheduler.add_job(
         job_diario,
-        CronTrigger(hour=8, minute=0),
-        id="recoleccion_diaria",
-        name="Recolección diaria de precios",
-        replace_existing=True,
+        CronTrigger(hour="0,12", minute=0),
+        id="recoleccion_12hs",
     )
 
     # Mostrar info
-    # DESPUÉS:
     logger.info("Scheduler iniciado")
     jobs = scheduler.get_jobs()
     if jobs:

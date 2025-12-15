@@ -16,6 +16,11 @@ services:
         value: false
     autoDeploy: true
 
+    disk:
+      name: price-monitor-data
+      mountPath: /opt/render/price-monitor
+      sizeGB: 1
+
   # Servicio Worker - Scheduler de actualización
   - type: worker
     name: price-monitor-scheduler
