@@ -48,14 +48,6 @@ def job_diario():
 
 def main():
     """Inicia el scheduler"""
-    print("=" * 80)
-    print("PRICE MONITOR - SCHEDULER AUTOMÁTICO")
-    print("=" * 80)
-    print("\nEl sistema recolectará datos automáticamente todos los días.")
-    print("Logs guardados en: logs/")
-    print("\nPresiona Ctrl+C para detener\n")
-    print("=" * 80)
-
     # Crear scheduler
     scheduler = BlockingScheduler()
 
@@ -77,28 +69,11 @@ def main():
         logger.info(f"  - {jobs[0].name}")
     logger.info("Frecuencia: Diaria a las 8:00 AM")
 
-    # Preguntar si ejecutar ahora
-    respuesta = input(
-        "\n¿Ejecutar recolección AHORA antes de iniciar el scheduler? (s/n): "
-    ).lower()
-    if respuesta == "s":
-        logger.info("\nEjecutando recolección inmediata...")
-        job_diario()
-
-    print("\n" + "=" * 80)
-    print("Scheduler activo. Esperando próxima ejecución...")
-    print("=" * 80 + "\n")
+    job_diario()
 
     # Iniciar scheduler
-    try:
-        scheduler.start()
-    except (KeyboardInterrupt, SystemExit):
-        logger.info("\n\nScheduler detenido por el usuario")
-        print("\n" + "=" * 80)
-        print("SCHEDULER DETENIDO")
-        print("=" * 80)
+    scheduler.start()
 
 
 if __name__ == "__main__":
     main()
-
